@@ -1,0 +1,21 @@
+{
+  "data_path": "data/processed/data.npz",
+  "output_dir": "results/strict_symptom_query_cold_both_seed0",
+  "model_type": "inductive",
+  "split_strategy": "cold_both",
+  "seed": 0,
+  "folds": 5,
+  "epochs": 150,
+  "embedding_dim": 64,
+  "hidden_dim": 128,
+  "dropout": 0.2,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "hs_negatives": 5,
+  "hs_negative_filter_scope": "train_only",
+  "hs_loss_weight": 1.0,
+  "hdi_loss_weight": 1.0,
+  "validation_fraction": 0.1,
+  "patience": 20,
+  "run_folds": null
+}

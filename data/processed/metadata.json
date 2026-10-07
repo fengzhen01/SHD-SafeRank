@@ -1,0 +1,38 @@
+{
+  "dataset": "SHD-SafeRank v0.1",
+  "hit_raw_edges": 1480,
+  "hit_unique_edges": 1436,
+  "hdi_raw_rows": 7591,
+  "hdi_unique_pairs": 7508,
+  "hdi_risk_positive_pairs": 738,
+  "hdi_no_effect_only_pairs": 404,
+  "hdi_unlabeled_pairs": 6366,
+  "unified_herbs": 1310,
+  "symptoms": 174,
+  "drugs": 510,
+  "unambiguous_exact_mappings": 355,
+  "usable_shared_herbs": 68,
+  "weak_paths": 4979,
+  "feature_provenance": {
+    "herb_target_features": "256-dimensional fixed hash projection of HIT herb-target relations",
+    "herb_component_features": "row-normalized 768-dimensional HDI Herb_feature.csv",
+    "symptom_features": "256-dimensional fixed hash projection of HIT symptom-gene relations",
+    "drug_features": "row-normalized 768-dimensional HDI Drug_feature.csv",
+    "drug_target_features": "256-dimensional fixed hash projection of positive DrugBank DTI relations",
+    "excluded": "MHGNN pre-generated bipartite herb/symptom embeddings are excluded because they may encode target herb-symptom edges"
+  },
+  "feature_coverage": {
+    "herbs_with_target_features": 798,
+    "herbs_with_component_features": 654,
+    "herbs_with_both_feature_types": 142,
+    "symptoms_with_gene_features": 174,
+    "drugs_with_molecular_features": 510,
+    "drugs_with_target_features": 423
+  },
+  "risk_label_policy": {
+    "positive": "at least one Harmful or Negative evidence record",
+    "negative": "all available evidence records are No Effect",
+    "unlabeled": "all remaining pairs",
+    "conflicting_risk_weight": 0.5
+  }
+}

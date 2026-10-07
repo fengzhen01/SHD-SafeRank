@@ -1,0 +1,799 @@
+﻿hit_herb_node_id,hit_tcm_id,hit_chinese_name,normalized_name,mapping_status,candidate_count,hdi_herb_id,hdi_chinese_name,hdi_english_name,unified_herb_key,in_hdi_relation_table,in_hit_relation_table,usable_shared_herb
+0,U5,艾叶,艾叶,unambiguous_exact,1,H00007,艾叶,leaf of Argy Wormwood,shared|U5|H00007,0,1,0
+1,U380,茴香,茴香,unambiguous_exact,1,H00423,茴香,Fennel Fruit,shared|U380|H00423,1,1,1
+2,U529,麻仁,麻仁,no_exact_match,0,,,,hit|U529,0,1,0
+3,U382,藿香,藿香,no_exact_match,0,,,,hit|U382,0,1,0
+4,U35,白屈菜,白屈菜,unambiguous_exact,1,H00049,白屈菜,Chelidonii Herba,shared|U35|H00049,0,1,0
+5,U381,活血藤,活血藤,no_exact_match,0,,,,hit|U381,0,0,0
+6,U392,棘豆,棘豆,no_exact_match,0,,,,hit|U392,0,0,0
+7,U383,鸡骨草,鸡骨草,unambiguous_exact,1,H00428,鸡骨草,Canton Love-pea Vine,shared|U383|H00428,0,1,0
+8,U384,鸡冠花,鸡冠花,unambiguous_exact,1,H00429,鸡冠花,Cockscomb flower,shared|U384|H00429,0,0,0
+9,U393,蒺藜,蒺藜,unambiguous_exact,1,H00431,蒺藜,Puncturevine Caltrop Fruit,shared|U393|H00431,0,1,0
+10,U386,鸡矢藤,鸡矢藤,no_exact_match,0,,,,hit|U386,0,1,0
+11,U46,百蕊草,百蕊草,unambiguous_exact,1,H00050,百蕊草,Chinese Bastardtoadflax,shared|U46|H00050,1,0,0
+12,U391,急性子,急性子,unambiguous_exact,1,H00438,急性子,seed of Garden Balsam,shared|U391|H00438,0,0,0
+13,U390,积雪草,积雪草,unambiguous_exact,1,H00439,积雪草,Asiatic Pennywort Herb,shared|U390|H00439,0,1,0
+14,U387,鸡血藤,鸡血藤,unambiguous_exact,1,H00440,鸡血藤,Suberect Spatholobus Stem,shared|U387|H00440,1,1,1
+15,U388,鸡眼草,鸡眼草,unambiguous_exact,1,H00441,鸡眼草,Striate Kummerowia,shared|U388|H00441,1,0,0
+16,U36,白芍,白芍,unambiguous_exact,1,H00051,白芍,White peony root,shared|U36|H00051,0,1,0
+17,U394,假蒟,假蒟,no_exact_match,0,,,,hit|U394,0,0,0
+18,U395,碱花,碱花,no_exact_match,0,,,,hit|U395,0,0,0
+19,U716,生姜,生姜,no_exact_match,0,,,,hit|U716,0,1,0
+20,U396,姜黄,姜黄,no_exact_match,0,,,,hit|U396,0,1,0
+21,U372,黄连,黄连,unambiguous_exact,1,H00416,黄连,rhizome of Chinese Goldthread,shared|U372|H00416,0,1,0
+22,U397,姜皮,姜皮,unambiguous_exact,1,H00449,姜皮,Ginger peel,shared|U397|H00449,1,0,0
+23,U399,降香,降香,unambiguous_exact,1,H00450,降香,Odoriferous Rosewood,shared|U399|H00450,1,1,1
+24,U401,焦槟榔,焦槟榔,no_exact_match,0,,,,hit|U401,0,0,0
+25,U403,绞股蓝,绞股蓝,unambiguous_exact,1,H00452,绞股蓝,Gynostemmae Pentaphylli Herba,shared|U403|H00452,0,1,0
+26,U767,苏子,苏子,no_exact_match,0,,,,hit|U767,0,1,0
+27,U439,桔梗,桔梗,unambiguous_exact,1,H00456,桔梗,Platycodon Root,shared|U439|H00456,1,1,1
+28,U404,接骨木,接骨木,unambiguous_exact,1,H00457,接骨木,Elder Equivalent plant: Sambucus nigra,shared|U404|H00457,1,0,0
+29,U38,白头翁,白头翁,unambiguous_exact,1,H00052,白头翁,Root of Chinese Pulsatilla,shared|U38|H00052,0,1,0
+30,U24,白芥子,白芥子,no_exact_match,0,,,,hit|U24,0,1,0
+31,U406,金不换,金不换,no_exact_match,0,,,,hit|U406,0,0,0
+32,U408,金沸草,金沸草,unambiguous_exact,1,H00458,金沸草,All - grass of Japanese Inula,shared|U408|H00458,1,1,1
+33,U411,金桔,金桔,no_exact_match,0,,,,hit|U411,0,0,0
+34,U13,菝葜,菝葜,no_exact_match,0,,,,hit|U13,0,1,0
+35,U39,白薇,白薇,no_exact_match,0,,,,hit|U39,0,1,0
+36,U409,金刚头,金刚头,no_exact_match,0,,,,hit|U409,0,0,0
+37,U410,金果榄,金果榄,no_exact_match,0,,,,hit|U410,0,1,0
+38,U412,金莲花,金莲花,unambiguous_exact,1,H00462,金莲花,flower of Chinese Globeflower,shared|U412|H00462,0,1,0
+39,U414,金牛草,金牛草,no_exact_match,0,,,,hit|U414,0,0,0
+40,U416,金钱草,金钱草,unambiguous_exact,1,H00464,金钱草,Christi Loosestrife,shared|U416|H00464,1,1,1
+41,U417,金荞麦,金荞麦,ambiguous_exact,2,,,,hit|U417,0,1,0
+42,U418,金沙藤,金沙藤,no_exact_match,0,,,,hit|U418,0,0,0
+43,U419,金丝矮陀陀,金丝矮陀陀,no_exact_match,0,,,,hit|U419,0,0,0
+44,U40,白鲜皮,白鲜皮,unambiguous_exact,1,H00053,白鲜皮,Dictamni Cortex,shared|U40|H00053,0,1,0
+45,U453,苦楝,苦楝,no_exact_match,0,,,,hit|U453,0,0,0
+46,U420,金铁锁,金铁锁,no_exact_match,0,,,,hit|U420,0,0,0
+47,U421,金腰草,金腰草,no_exact_match,0,,,,hit|U421,0,0,0
+48,U422,金叶子,金叶子,no_exact_match,0,,,,hit|U422,0,0,0
+49,U423,金银花,金银花,unambiguous_exact,1,H00468,金银花,Honeysuckle Flower,shared|U423|H00468,1,1,1
+50,U425,金樱子,金樱子,unambiguous_exact,1,H00469,金樱子,fruit of Cherokee Rose,shared|U425|H00469,0,1,0
+51,U142,大戟,大戟,no_exact_match,0,,,,hit|U142,0,1,0
+52,U93,侧柏叶,侧柏叶,unambiguous_exact,1,H00098,侧柏叶,leafy twigs of Oriental Arborvitae,shared|U93|H00098,0,1,0
+53,U430,荆芥,荆芥,unambiguous_exact,1,H00471,荆芥,all-grass of Fineleaf Schizonepeta,shared|U430|H00471,0,1,0
+54,U431,荆芥炭,荆芥炭,no_exact_match,0,,,,hit|U431,0,0,0
+55,U432,粳米,粳米,no_exact_match,0,,,,hit|U432,0,0,0
+56,U669,三七,三七,unambiguous_exact,1,H00727,三七,Sanchi,shared|U669|H00727,0,1,0
+57,U438,救必应,救必应,no_exact_match,0,,,,hit|U438,0,0,0
+58,U437,韭菜,韭菜,no_exact_match,0,,,,hit|U437,0,1,0
+59,U370,黄精,黄精,unambiguous_exact,1,H00414,黄精,Rhizome of Fragrant Solomonseal,shared|U370|H00414,0,1,0
+60,U434,九节茶,九节茶,no_exact_match,0,,,,hit|U434,0,0,0
+61,U435,九里香,九里香,no_exact_match,0,,,,hit|U435,0,0,0
+62,U697,山茱萸,山茱萸,unambiguous_exact,1,H00760,山茱萸,Asiatic Cornelian Cherry Fruit,shared|U697|H00760,0,1,0
+63,U267,枸骨叶,枸骨叶,unambiguous_exact,1,H00299,枸骨叶,Folium Ilicis Cornutae,shared|U267|H00299,0,1,0
+64,U442,橘核,橘核,no_exact_match,0,,,,hit|U442,0,1,0
+65,U443,橘红,橘红,no_exact_match,0,,,,hit|U443,0,1,0
+66,U43,白芷,白芷,unambiguous_exact,1,H00057,白芷,Dahurian Angelica Root,shared|U43|H00057,0,1,0
+67,U106,陈皮,陈皮,unambiguous_exact,1,H00119,陈皮,Dried Tangerine Peel,shared|U106|H00119,1,1,1
+68,U440,菊花,菊花,unambiguous_exact,1,H00478,菊花,Chrysanthemum Flower,shared|U440|H00478,0,1,0
+69,U268,枸杞,枸杞,unambiguous_exact,1,H00304,枸杞,Fructus lycii,shared|U268|H00304,0,1,0
+70,U446,卷柏,卷柏,unambiguous_exact,1,H00483,卷柏,aal-grass of Tamariskoid spikemoss,shared|U446|H00483,0,1,0
+71,U448,爵床,爵床,no_exact_match,0,,,,hit|U448,0,0,0
+72,U447,决明子,决明子,unambiguous_exact,1,H00484,决明子,Cassia Seed,shared|U447|H00484,1,1,1
+73,U37,白术,白术,no_exact_match,0,,,,hit|U37,0,1,0
+74,U169,地丁,地丁,no_exact_match,0,,,,hit|U169,0,1,0
+75,U452,苦丁茶,苦丁茶,no_exact_match,0,,,,hit|U452,0,1,0
+76,U47,柏子仁,柏子仁,unambiguous_exact,1,H00058,柏子仁,seed of Chinese Arborvitae,shared|U47|H00058,0,1,0
+77,U454,苦楝皮,苦楝皮,no_exact_match,0,,,,hit|U454,0,1,0
+78,U455,苦楝子,苦楝子,no_exact_match,0,,,,hit|U455,0,1,0
+79,U456,苦木,苦木,no_exact_match,0,,,,hit|U456,0,0,0
+80,U451,苦参,苦参,unambiguous_exact,1,H00495,苦参,root of Lightyellow sophora,shared|U451|H00495,0,1,0
+81,U892,杏仁,杏仁,no_exact_match,0,,,,hit|U892,0,1,0
+82,U52,半边莲,半边莲,unambiguous_exact,1,H00059,半边莲,Chinese Lobelia Herb,shared|U52|H00059,0,1,0
+83,U457,苦玄参,苦玄参,no_exact_match,0,,,,hit|U457,0,0,0
+84,U459,款冬花,款冬花,unambiguous_exact,1,H00499,款冬花,flower bud of common coltsfoot,shared|U459|H00499,0,1,0
+85,U889,缬草,缬草,unambiguous_exact,1,H00927,缬草,"Common Valeriana Equivalent plant: Valeriana officinalis var latifolia, Valeriana amurensis",shared|U889|H00927,1,0,0
+86,U460,昆布,昆布,no_exact_match,0,,,,hit|U460,0,1,0
+87,U461,昆明山海棠,昆明山海棠,unambiguous_exact,1,H00501,昆明山海棠,Glaucousback Threewingnut,shared|U461|H00501,1,0,0
+88,U462,辣椒,辣椒,unambiguous_exact,1,H00503,辣椒,Hot pepper,shared|U462|H00503,0,1,0
+89,U53,半边旗,半边旗,no_exact_match,0,,,,hit|U53,0,0,0
+90,U560,梅花,梅花,unambiguous_exact,1,H00597,梅花,Plum Flower,shared|U560|H00597,1,1,1
+91,U463,莱菔子,莱菔子,unambiguous_exact,1,H00505,莱菔子,Radish Seed,shared|U463|H00505,0,1,0
+92,U465,狼毒,狼毒,no_exact_match,0,,,,hit|U465,0,0,0
+93,U467,老鹳草,老鹳草,unambiguous_exact,1,H00511,老鹳草,All - grass of Common Heron's bill,shared|U467|H00511,0,1,0
+94,U468,勒苋菜,勒苋菜,no_exact_match,0,,,,hit|U468,0,0,0
+95,U470,雷公藤,雷公藤,unambiguous_exact,1,H00513,雷公藤,root of common htreewingnut,shared|U470|H00513,0,1,0
+96,U50,板蓝根,板蓝根,unambiguous_exact,1,H00060,板蓝根,Root of Dyers Woad.,shared|U50|H00060,0,1,0
+97,U473,藜芦,藜芦,no_exact_match,0,,,,hit|U473,0,0,0
+98,U474,荔枝核,荔枝核,unambiguous_exact,1,H00519,荔枝核,Litchi seed,shared|U474|H00519,0,1,0
+99,U477,莲房,莲房,unambiguous_exact,1,H00520,莲房,Lotus Receptacle,shared|U477|H00520,1,1,1
+100,U475,连钱草,连钱草,no_exact_match,0,,,,hit|U475,0,1,0
+101,U476,连翘,连翘,unambiguous_exact,1,H00521,连翘,Weeping Forsythia Capsule,shared|U476|H00521,0,1,0
+102,U479,莲子,莲子,no_exact_match,0,,,,hit|U479,0,0,0
+103,U480,莲子心,莲子心,unambiguous_exact,1,H00523,莲子心,Lotus Plumule,shared|U480|H00523,0,1,0
+104,U258,高良姜,高良姜,unambiguous_exact,1,H00291,高良姜,Alpiniae Officirum Rhizome,shared|U258|H00291,0,1,0
+105,U687,山椒,山椒,no_exact_match,0,,,,hit|U687,0,1,0
+106,U51,板栗壳,板栗壳,no_exact_match,0,,,,hit|U51,0,0,0
+107,U146,大青叶,大青叶,no_exact_match,0,,,,hit|U146,0,1,0
+108,U469,了哥王,了哥王,no_exact_match,0,,,,hit|U469,0,1,0
+109,U88,草苁蓉,草苁蓉,unambiguous_exact,1,H00096,草苁蓉,Boschniakia Rossica Herba,shared|U88|H00096,0,1,0
+110,U487,零陵香,零陵香,unambiguous_exact,1,H00528,零陵香,Lysimachiae Foenigraeci Herba,shared|U487|H00528,0,1,0
+111,U483,灵猫香,灵猫香,no_exact_match,0,,,,hit|U483,0,0,0
+112,U821,威灵仙,威灵仙,unambiguous_exact,1,H00852,威灵仙,Chinese Clematis Root,shared|U821|H00852,0,1,0
+113,U486,羚羊角,羚羊角,no_exact_match,0,,,,hit|U486,0,0,0
+114,U484,灵芝,灵芝,unambiguous_exact,1,H00532,灵芝,Lucid Ganoderma,shared|U484|H00532,0,1,0
+115,U54,半夏,半夏,unambiguous_exact,1,H00063,半夏,tuber of Pinellia,shared|U54|H00063,0,1,0
+116,U488,刘寄奴,刘寄奴,unambiguous_exact,1,H00533,刘寄奴,Siphonostegia,shared|U488|H00533,1,1,1
+117,U489,琉璃草,琉璃草,no_exact_match,0,,,,hit|U489,0,0,0
+118,U492,六棱菊,六棱菊,no_exact_match,0,,,,hit|U492,0,0,0
+119,U491,柳枝,柳枝,no_exact_match,0,,,,hit|U491,0,0,0
+120,U495,龙齿,龙齿,no_exact_match,0,,,,hit|U495,0,0,0
+121,U496,龙胆,龙胆,unambiguous_exact,1,H00536,龙胆,Gentiae Radix Et Rhozima,shared|U496|H00536,0,1,0
+122,U55,半枝莲,半枝莲,unambiguous_exact,1,H00064,半枝莲,all - grass of Barbed Skullcap,shared|U55|H00064,0,1,0
+123,U497,龙骨,龙骨,unambiguous_exact,1,H00537,龙骨,"Dragon's bone, Fossilized bone",shared|U497|H00537,1,0,0
+124,U498,龙葵,龙葵,unambiguous_exact,1,H00538,龙葵,Solanum Nigrum Linn.,shared|U498|H00538,0,0,0
+125,U501,龙涎香,龙涎香,no_exact_match,0,,,,hit|U501,0,0,0
+126,U502,龙眼肉,龙眼肉,no_exact_match,0,,,,hit|U502,0,0,0
+127,U503,漏芦,漏芦,no_exact_match,0,,,,hit|U503,0,1,0
+128,U515,路边青,路边青,unambiguous_exact,1,H00541,路边青,Manyflower Glorybower Leaf,shared|U515|H00541,1,0,0
+129,U517,露兜,露兜,no_exact_match,0,,,,hit|U517,0,0,0
+130,U504,芦根,芦根,unambiguous_exact,1,H00543,芦根,Reed rhizome,shared|U504|H00543,0,1,0
+131,U505,芦荟,芦荟,unambiguous_exact,1,H00544,芦荟,Aloe,shared|U505|H00544,0,1,0
+132,U508,鹿角,鹿角,unambiguous_exact,1,H00545,鹿角,Deer Horn,shared|U508|H00545,1,0,0
+133,U509,鹿角胶,鹿角胶,no_exact_match,0,,,,hit|U509,0,0,0
+134,U510,鹿角霜,鹿角霜,no_exact_match,0,,,,hit|U510,0,0,0
+135,U516,路路通,路路通,unambiguous_exact,1,H00546,路路通,fruit of beautiful sweetgum,shared|U516|H00546,0,1,0
+136,U511,鹿茸,鹿茸,no_exact_match,0,,,,hit|U511,0,0,0
+137,U513,鹿衔草,鹿衔草,unambiguous_exact,1,H00550,鹿衔草,all-grass Chinese pyrola,shared|U513|H00550,0,1,0
+138,U506,芦竹根,芦竹根,no_exact_match,0,,,,hit|U506,0,0,0
+139,U518,罗布麻,罗布麻,unambiguous_exact,1,H00551,罗布麻,Dogbane,shared|U518|H00551,1,0,0
+140,U519,罗布麻叶,罗布麻叶,no_exact_match,0,,,,hit|U519,0,1,0
+141,U522,络石藤,络石藤,unambiguous_exact,1,H00556,络石藤,stem of Chinese starjasmine,shared|U522|H00556,0,1,0
+142,U523,落新妇,落新妇,no_exact_match,0,,,,hit|U523,0,0,0
+143,U57,暴马子皮,暴马子皮,no_exact_match,0,,,,hit|U57,0,0,0
+144,U526,葎草,葎草,ambiguous_exact,2,,,,hit|U526,0,1,0
+145,U524,绿豆,绿豆,no_exact_match,0,,,,hit|U524,0,1,0
+146,U48,败酱草,败酱草,unambiguous_exact,1,H00036,败酱草,All - grass of Dahurian Patrinia,shared|U48|H00036,1,0,0
+147,U999,枳实,枳实,unambiguous_exact,1,H01038,枳实,immature fruit of Seville orange,shared|U999|H01038,0,1,0
+148,U530,马鞭草,马鞭草,unambiguous_exact,1,H00564,马鞭草,European Verbe Herb,shared|U530|H00564,0,1,0
+149,U76,槟榔,槟榔,unambiguous_exact,1,H00084,槟榔,areca seed,shared|U76|H00084,1,1,1
+150,U532,马齿苋,马齿苋,unambiguous_exact,1,H00565,马齿苋,all-grass of Purslane,shared|U532|H00565,0,1,0
+151,U533,马兜铃,马兜铃,no_exact_match,0,,,,hit|U533,0,1,0
+152,U527,麻黄,麻黄,unambiguous_exact,1,H00567,麻黄,Ephedra,shared|U527|H00567,0,1,0
+153,U58,北豆根,北豆根,unambiguous_exact,1,H00066,北豆根,Chinese Cinquefoil,shared|U58|H00066,1,1,1
+154,U528,麻黄根,麻黄根,unambiguous_exact,1,H00568,麻黄根,Ephedra Root,shared|U528|H00568,0,0,0
+155,U534,马钱子,马钱子,unambiguous_exact,1,H00570,马钱子,Nux Vomica,shared|U534|H00570,0,1,0
+156,U536,马尾松根,马尾松根,no_exact_match,0,,,,hit|U536,0,0,0
+157,U304,寒水石,寒水石,unambiguous_exact,1,H00347,寒水石,mirabilitum crystallina,shared|U304|H00347,1,0,0
+158,U537,麦冬,麦冬,no_exact_match,0,,,,hit|U537,0,0,0
+159,U306,合欢花,合欢花,no_exact_match,0,,,,hit|U306,0,0,0
+160,U538,麦芽,麦芽,unambiguous_exact,1,H00574,麦芽,Germited Barley,shared|U538|H00574,0,1,0
+161,U543,蔓荆叶,蔓荆叶,no_exact_match,0,,,,hit|U543,0,0,0
+162,U544,蔓荆子,蔓荆子,unambiguous_exact,1,H00575,蔓荆子,Shrub Chastetree Fruit,shared|U544|H00575,0,1,0
+163,U545,蔓九节,蔓九节,no_exact_match,0,,,,hit|U545,0,0,0
+164,U539,满山红,满山红,unambiguous_exact,1,H00576,满山红,Dahurian Rhododendron Leaf,shared|U539|H00576,0,1,0
+165,U540,曼陀罗,曼陀罗,no_exact_match,0,,,,hit|U540,0,0,0
+166,U541,曼陀罗叶,曼陀罗叶,no_exact_match,0,,,,hit|U541,0,0,0
+167,U542,曼陀罗子,曼陀罗子,no_exact_match,0,,,,hit|U542,0,0,0
+168,U546,蔓越莓,蔓越莓,no_exact_match,0,,,,hit|U546,0,0,0
+169,U547,芒果叶,芒果叶,no_exact_match,0,,,,hit|U547,0,0,0
+170,U548,芒硝,芒硝,no_exact_match,0,,,,hit|U548,0,0,0
+171,U551,毛大丁草,毛大丁草,no_exact_match,0,,,,hit|U551,0,0,0
+172,U552,毛冬青,毛冬青,unambiguous_exact,1,H00584,毛冬青,Pubescent Holly Equivalent plant: Ilex pubescens var glaber,shared|U552|H00584,1,0,0
+173,U554,茅膏菜,茅膏菜,unambiguous_exact,1,H00585,茅膏菜,Lunate Peltate Sundew,shared|U554|H00585,1,0,0
+174,U553,毛诃子,毛诃子,no_exact_match,0,,,,hit|U553,0,0,0
+175,U481,两面针,两面针,unambiguous_exact,1,H00524,两面针,Shinyleaf Pricklyash Root,shared|U481|H00524,1,0,0
+176,U555,茅莓根,茅莓根,no_exact_match,0,,,,hit|U555,0,0,0
+177,U710,麝香,麝香,unambiguous_exact,1,H00766,麝香,Abelmusk,shared|U710|H00766,1,0,0
+178,U559,玫瑰花,玫瑰花,unambiguous_exact,1,H00596,玫瑰花,Rose Flower,shared|U559|H00596,0,1,0
+179,U59,北沙参,北沙参,unambiguous_exact,1,H00070,北沙参,root of Coastal Glehnia,shared|U59|H00070,1,1,1
+180,U244,甘草,甘草,unambiguous_exact,1,H00268,甘草,Root of Ural Licorice,shared|U244|H00268,1,1,1
+181,U563,猕猴桃,猕猴桃,no_exact_match,0,,,,hit|U563,0,0,0
+182,U566,密蒙花,密蒙花,unambiguous_exact,1,H00610,密蒙花,flower of Pale Butterflybush,shared|U566|H00610,0,1,0
+183,U954,罂粟壳,罂粟壳,unambiguous_exact,1,H00979,罂粟壳,poppy capsule,shared|U954|H00979,1,0,0
+184,U802,葶苈子,葶苈子,unambiguous_exact,1,H00835,葶苈子,"Lepidium seed, Descurainia seed",shared|U802|H00835,1,1,1
+185,U1033,紫菀,紫菀,unambiguous_exact,1,H01062,紫菀,root of tatarian aster,shared|U1033|H01062,1,1,1
+186,U64,萆薢,萆薢,no_exact_match,0,,,,hit|U64,0,1,0
+187,U567,棉花根,棉花根,no_exact_match,0,,,,hit|U567,0,0,0
+188,U279,贯众,贯众,unambiguous_exact,1,H00319,贯众,root of Chinese Angelica,shared|U279|H00319,1,1,1
+189,U550,猫爪草,猫爪草,unambiguous_exact,1,H00594,猫爪草,Catclaw Buttercup Root,shared|U550|H00594,0,1,0
+190,U568,明党参,明党参,unambiguous_exact,1,H00613,明党参,Medicinal Changium,shared|U568|H00613,1,0,0
+191,U569,墨旱莲,墨旱莲,unambiguous_exact,1,H00616,墨旱莲,all-grass of Yerbadetajo,shared|U569|H00616,0,1,0
+192,U556,没食子,没食子,no_exact_match,0,,,,hit|U556,0,0,0
+193,U557,没香,没香,no_exact_match,0,,,,hit|U557,0,0,0
+194,U558,没药,没药,unambiguous_exact,1,H00617,没药,Myrrh,shared|U558|H00617,0,1,0
+195,U841,五味子,五味子,unambiguous_exact,1,H00871,五味子,Chinese Magnoliavine Equivalent plant: Schisandra sphenanthera,shared|U841|H00871,1,1,1
+196,U575,木鳖子,木鳖子,no_exact_match,0,,,,hit|U575,0,1,0
+197,U156,丹皮,丹皮,no_exact_match,0,,,,hit|U156,0,1,0
+198,U570,母丁香,母丁香,unambiguous_exact,1,H00619,母丁香,Clove fruit,shared|U570|H00619,1,0,0
+199,U576,木防己,木防己,no_exact_match,0,,,,hit|U576,0,0,0
+200,U578,木瓜,木瓜,unambiguous_exact,1,H00620,木瓜,fruit of Common Floweringquince,shared|U578|H00620,0,1,0
+201,U579,木蝴蝶,木蝴蝶,unambiguous_exact,1,H00621,木蝴蝶,Indian Trumpetflower Seed,shared|U579|H00621,0,1,0
+202,U574,牡蛎,牡蛎,unambiguous_exact,1,H00626,牡蛎,Oyster,shared|U574|H00626,1,0,0
+203,U582,木通,木通,unambiguous_exact,1,H00630,木通,"Akebia, Clematis stem",shared|U582|H00630,0,1,0
+204,U584,木香,木香,unambiguous_exact,1,H00631,木香,Common Aucklandia Root,shared|U584|H00631,1,1,1
+205,U585,木贼,木贼,unambiguous_exact,1,H00632,木贼,Common Scouring Rush Herb,shared|U585|H00632,0,0,0
+206,U587,南瓜,南瓜,no_exact_match,0,,,,hit|U587,0,0,0
+207,U590,南沙参,南沙参,unambiguous_exact,1,H00638,南沙参,Fourleaf Ladybell Root,shared|U590|H00638,1,1,1
+208,U694,山楂,山楂,unambiguous_exact,1,H00757,山楂,Chinese Hawthorn Equivalent plant: Crataegus pinnatifida var major,shared|U694|H00757,1,0,0
+209,U706,蛇藤,蛇藤,no_exact_match,0,,,,hit|U706,0,0,0
+210,U591,南藤,南藤,no_exact_match,0,,,,hit|U591,0,0,0
+211,U858,细辛,细辛,unambiguous_exact,1,H00889,细辛,all-grass Manchurian wildginger,shared|U858|H00889,0,1,0
+212,U592,闹羊花,闹羊花,unambiguous_exact,1,H00641,闹羊花,Yellow Azalea Flower,shared|U592|H00641,0,1,0
+213,U593,牛蒡草,牛蒡草,no_exact_match,0,,,,hit|U593,0,0,0
+214,U594,牛蒡子,牛蒡子,unambiguous_exact,1,H00648,牛蒡子,achene of Great Burdock,shared|U594|H00648,1,1,1
+215,U596,牛耳枫,牛耳枫,no_exact_match,0,,,,hit|U596,0,0,0
+216,U598,牛角,牛角,no_exact_match,0,,,,hit|U598,0,0,0
+217,U599,牛筋草,牛筋草,no_exact_match,0,,,,hit|U599,0,0,0
+218,U62,荜茇,荜茇,unambiguous_exact,1,H00074,荜茇,Long Pepper Fruit,shared|U62|H00074,0,1,0
+219,U600,牛藤,牛藤,no_exact_match,0,,,,hit|U600,0,0,0
+220,U602,牛膝,牛膝,unambiguous_exact,1,H00652,牛膝,root of Twotooth Achyranthes,shared|U602|H00652,1,1,1
+221,U601,牛西西,牛西西,no_exact_match,0,,,,hit|U601,0,0,0
+222,U603,牛至,牛至,no_exact_match,0,,,,hit|U603,0,0,0
+223,U606,女贞子,女贞子,ambiguous_exact,2,,,,hit|U606,0,1,0
+224,U607,藕,藕,no_exact_match,0,,,,hit|U607,0,1,0
+225,U63,荜澄茄,荜澄茄,no_exact_match,0,,,,hit|U63,0,1,0
+226,U610,佩兰,佩兰,unambiguous_exact,1,H00667,佩兰,Fortune Eupatorium Herb,shared|U610|H00667,0,1,0
+227,U205,莪术,莪术,unambiguous_exact,1,H00237,莪术,Zedoray Rhizome,shared|U205|H00237,1,1,1
+228,U611,枇杷仁,枇杷仁,no_exact_match,0,,,,hit|U611,0,0,0
+229,U612,枇杷叶,枇杷叶,unambiguous_exact,1,H00671,枇杷叶,Loquat Leaf,shared|U612|H00671,0,1,0
+230,U117,川贝,川贝,no_exact_match,0,,,,hit|U117,0,1,0
+231,U79,补骨脂,补骨脂,unambiguous_exact,1,H00091,补骨脂,Malaytea Scurfpea,shared|U79|H00091,1,0,0
+232,U613,蒲公英,蒲公英,unambiguous_exact,1,H00677,蒲公英,Mongolian Dandelion,shared|U613|H00677,1,0,0
+233,U614,蒲黄,蒲黄,unambiguous_exact,1,H00678,蒲黄,pollen of longbract cattail,shared|U614|H00678,1,1,1
+234,U615,蒲桃,蒲桃,no_exact_match,0,,,,hit|U615,0,0,0
+235,U617,漆姑草,漆姑草,no_exact_match,0,,,,hit|U617,0,0,0
+236,U618,漆树根,漆树根,no_exact_match,0,,,,hit|U618,0,0,0
+237,U66,蓖麻子,蓖麻子,unambiguous_exact,1,H00077,蓖麻子,Castor Seed,shared|U66|H00077,0,0,0
+238,U616,七叶一枝花,七叶一枝花,no_exact_match,0,,,,hit|U616,0,0,0
+239,U628,前胡,前胡,unambiguous_exact,1,H00683,前胡,root of Grand Hogfennel,shared|U628|H00683,0,1,0
+240,U622,千斤拔,千斤拔,unambiguous_exact,1,H00684,千斤拔,root of Philippine Flemingia,shared|U622|H00684,1,1,1
+241,U623,千金子,千金子,no_exact_match,0,,,,hit|U623,0,1,0
+242,U65,蓖麻根,蓖麻根,unambiguous_exact,1,H00076,蓖麻根,Castorbean Root,shared|U65|H00076,1,0,0
+243,U624,千里光,千里光,unambiguous_exact,1,H00686,千里光,Climbing Groundsel,shared|U624|H00686,0,0,0
+244,U625,千年健,千年健,unambiguous_exact,1,H00687,千年健,rhizome of Obscured Homalome,shared|U625|H00687,0,1,0
+245,U627,牵牛子,牵牛子,unambiguous_exact,1,H00688,牵牛子,Pharbitis seed,shared|U627|H00688,0,1,0
+246,U629,芡实,芡实,unambiguous_exact,1,H00690,芡实,seed of Gordon Euryale,shared|U629|H00690,1,1,1
+247,U631,羌活,羌活,no_exact_match,0,,,,hit|U631,0,1,0
+248,U633,荞麦,荞麦,no_exact_match,0,,,,hit|U633,0,0,0
+249,U634,茄根,茄根,no_exact_match,0,,,,hit|U634,0,1,0
+250,U636,秦皮,秦皮,unambiguous_exact,1,H00696,秦皮,bark of Largeleaf Chinese Ash,shared|U636|H00696,1,1,1
+251,U635,秦艽,秦艽,unambiguous_exact,1,H00694,秦艽,root of Largeleaf Gentian,shared|U635|H00694,0,1,0
+252,U637,青黛,青黛,no_exact_match,0,,,,hit|U637,0,1,0
+253,U638,青风藤,青风藤,unambiguous_exact,1,H00697,青风藤,Caulis Sinomenii,shared|U638|H00697,0,1,0
+254,U640,青蒿,青蒿,unambiguous_exact,1,H00698,青蒿,Sweet Wormwood Herb,shared|U640|H00698,0,1,0
+255,U639,青果,青果,no_exact_match,0,,,,hit|U639,0,1,0
+256,U642,青皮,青皮,unambiguous_exact,1,H00700,青皮,Green Tangerine Peel,shared|U642|H00700,1,1,1
+257,U644,青叶胆,青叶胆,no_exact_match,0,,,,hit|U644,0,1,0
+258,U647,瞿麦,瞿麦,unambiguous_exact,1,H00704,瞿麦,all-grass of Lilac Pink,shared|U647|H00704,0,1,0
+259,U649,拳参,拳参,unambiguous_exact,1,H00705,拳参,rhizome of Bistort,shared|U649|H00705,0,1,0
+260,U648,全蝎,全蝎,no_exact_match,0,,,,hit|U648,0,0,0
+261,U654,忍冬藤,忍冬藤,unambiguous_exact,1,H00707,忍冬藤,Japanese Honeysuckle Vine,shared|U654|H00707,1,0,0
+262,U597,牛黄,牛黄,unambiguous_exact,1,H00650,牛黄,Cow-bezoar,shared|U597|H00650,1,1,1
+263,U650,人参,人参,unambiguous_exact,1,H00708,人参,Radix Ginseng,shared|U650|H00708,0,1,0
+264,U72,扁豆,扁豆,no_exact_match,0,,,,hit|U72,0,1,0
+265,U652,人中白,人中白,no_exact_match,0,,,,hit|U652,0,0,0
+266,U653,人字草,人字草,no_exact_match,0,,,,hit|U653,0,0,0
+267,U655,榕树须,榕树须,no_exact_match,0,,,,hit|U655,0,0,0
+268,U656,榕树叶,榕树叶,no_exact_match,0,,,,hit|U656,0,0,0
+269,U657,肉苁蓉,肉苁蓉,unambiguous_exact,1,H00718,肉苁蓉,Desertliving Cistanche,shared|U657|H00718,0,0,0
+270,U658,肉豆蔻,肉豆蔻,no_exact_match,0,,,,hit|U658,0,1,0
+271,U659,肉桂,肉桂,unambiguous_exact,1,H00719,肉桂,Cassia Bark,shared|U659|H00719,0,1,0
+272,U660,肉桂叶,肉桂叶,no_exact_match,0,,,,hit|U660,0,0,0
+273,U71,蝙蝠葛,蝙蝠葛,no_exact_match,0,,,,hit|U71,0,0,0
+274,U661,乳香,乳香,unambiguous_exact,1,H00720,乳香,Frankincense,shared|U661|H00720,0,1,0
+275,U662,蕤仁,蕤仁,unambiguous_exact,1,H00723,蕤仁,Hedge Prinsepia Nut,shared|U662|H00723,1,1,1
+276,U665,三百棒,三百棒,no_exact_match,0,,,,hit|U665,0,0,0
+277,U74,卞萝卜,卞萝卜,no_exact_match,0,,,,hit|U74,0,0,0
+278,U664,三白草,三白草,unambiguous_exact,1,H00724,三白草,Chinese Lizardtail Rhizome or Herb,shared|U664|H00724,0,1,0
+279,U667,三颗针,三颗针,no_exact_match,0,,,,hit|U667,0,0,0
+280,U668,三棱,三棱,unambiguous_exact,1,H00726,三棱,Common Burreed Tuber,shared|U668|H00726,0,1,0
+281,U70,萹蓄,萹蓄,unambiguous_exact,1,H00082,萹蓄,all-grass of common knotgrass,shared|U70|H00082,0,1,0
+282,U670,三七花,三七花,unambiguous_exact,1,H00728,三七花,Notoginseng Flos,shared|U670|H00728,0,1,0
+283,U671,三七叶,三七叶,no_exact_match,0,,,,hit|U671,0,0,0
+284,U75,鳖甲,鳖甲,no_exact_match,0,,,,hit|U75,0,0,0
+285,U672,三桠苦,三桠苦,no_exact_match,0,,,,hit|U672,0,0,0
+286,U673,三叶青,三叶青,no_exact_match,0,,,,hit|U673,0,0,0
+287,U676,桑寄生,桑寄生,unambiguous_exact,1,H00731,桑寄生,Chinese Taxillus Herb,shared|U676|H00731,0,1,0
+288,U674,桑白皮,桑白皮,no_exact_match,0,,,,hit|U674,0,1,0
+289,U677,桑螵蛸,桑螵蛸,unambiguous_exact,1,H00732,桑螵蛸,Egg Capsule of Mantid,shared|U677|H00732,1,0,0
+290,U678,桑椹,桑椹,unambiguous_exact,1,H00733,桑椹,Mulberry Fruit,shared|U678|H00733,1,1,1
+291,U679,桑叶,桑叶,unambiguous_exact,1,H00734,桑叶,Mulberry Leaf,shared|U679|H00734,0,1,0
+292,U680,桑枝,桑枝,unambiguous_exact,1,H00735,桑枝,Mulberry Twig,shared|U680|H00735,0,1,0
+293,U683,砂仁,砂仁,unambiguous_exact,1,H00737,砂仁,Villous Amomum Fruit,shared|U683|H00737,1,1,1
+294,U682,沙苑子,沙苑子,unambiguous_exact,1,H00742,沙苑子,Flatstem Milkvetch Seed,shared|U682|H00742,0,1,0
+295,U61,毕澄茄,毕澄茄,no_exact_match,0,,,,hit|U61,0,0,0
+296,U684,山慈菇,山慈菇,no_exact_match,0,,,,hit|U684,0,0,0
+297,U685,山豆根,山豆根,unambiguous_exact,1,H00744,山豆根,Vietmese Sophora Root,shared|U685|H00744,0,1,0
+298,U686,山姜,山姜,no_exact_match,0,,,,hit|U686,0,0,0
+299,U688,山苦荬,山苦荬,unambiguous_exact,1,H00747,山苦荬,China Ixeris,shared|U688|H00747,1,0,0
+300,U77,冰片,冰片,unambiguous_exact,1,H00085,冰片,Borneol,shared|U77|H00085,0,1,0
+301,U689,山莨菪,山莨菪,no_exact_match,0,,,,hit|U689,0,0,0
+302,U690,山牡荆,山牡荆,no_exact_match,0,,,,hit|U690,0,0,0
+303,U691,山柰,山柰,unambiguous_exact,1,H00751,山柰,Galanga Resurrectionlily Rhizome,shared|U691|H00751,0,1,0
+304,U693,山药,山药,no_exact_match,0,,,,hit|U693,0,1,0
+305,U948,茵陈,茵陈,unambiguous_exact,1,H00974,茵陈,Virgate Wormwood Herb,shared|U948|H00974,0,1,0
+306,U696,山楂叶,山楂叶,unambiguous_exact,1,H00759,山楂叶,Crataegi Folium,shared|U696|H00759,0,1,0
+307,U995,栀子,栀子,unambiguous_exact,1,H01040,栀子,fruit of Cape Jasmine,shared|U995|H01040,1,1,1
+308,U993,芝麻,芝麻,no_exact_match,0,,,,hit|U993,0,0,0
+309,U698,商陆,商陆,no_exact_match,0,,,,hit|U698,0,1,0
+310,U700,蛇床子,蛇床子,unambiguous_exact,1,H00763,蛇床子,Common Cnidium Fruit,shared|U700|H00763,0,1,0
+311,U701,蛇胆,蛇胆,no_exact_match,0,,,,hit|U701,0,0,0
+312,U709,射干,射干,unambiguous_exact,1,H00764,射干,Blackberrylily Rhizome,shared|U709|H00764,0,1,0
+313,U703,蛇麻子,蛇麻子,no_exact_match,0,,,,hit|U703,0,0,0
+314,U704,蛇葡萄,蛇葡萄,unambiguous_exact,1,H00765,蛇葡萄,Ampelopsis,shared|U704|H00765,1,0,0
+315,U705,蛇肉,蛇肉,no_exact_match,0,,,,hit|U705,0,0,0
+316,U56,薄荷,薄荷,unambiguous_exact,1,H00088,薄荷,"Mentha, Peppermint",shared|U56|H00088,0,1,0
+317,U711,伸筋草,伸筋草,no_exact_match,0,,,,hit|U711,0,1,0
+318,U327,红景天,红景天,unambiguous_exact,1,H00372,红景天,all - grass of Rhodiola,shared|U327|H00372,1,0,0
+319,U174,地黄,地黄,unambiguous_exact,1,H00199,地黄,Radix Rehmanniae,shared|U174|H00199,1,0,0
+320,U242,附子,附子,unambiguous_exact,1,H00267,附子,Common Monkshood Daughter Root,shared|U242|H00267,0,1,0
+321,U17,白附子,白附子,unambiguous_exact,1,H00024,白附子,rhizome of Giant Typhonium,shared|U17|H00024,0,1,0
+322,U713,升麻,升麻,unambiguous_exact,1,H00775,升麻,Largetrifoliolious Bugbane Rhizome,shared|U713|H00775,0,1,0
+323,U789,天南星,天南星,no_exact_match,0,,,,hit|U789,0,1,0
+324,U721,石菖蒲,石菖蒲,unambiguous_exact,1,H00776,石菖蒲,Grassleaf Sweetflag Rhizome,shared|U721|H00776,0,1,0
+325,U736,柿蒂,柿蒂,unambiguous_exact,1,H00777,柿蒂,calyx and receptacle of a Persimmon,shared|U736|H00777,0,0,0
+326,U722,石刁柏,石刁柏,no_exact_match,0,,,,hit|U722,0,0,0
+327,U723,石吊兰,石吊兰,no_exact_match,0,,,,hit|U723,0,0,0
+328,U724,石耳,石耳,no_exact_match,0,,,,hit|U724,0,0,0
+329,U726,石斛,石斛,ambiguous_exact,2,,,,hit|U726,0,0,0
+330,U728,石决明,石决明,unambiguous_exact,1,H00780,石决明,Sea-ear Shell,shared|U728|H00780,1,0,0
+331,U735,使君子,使君子,unambiguous_exact,1,H00781,使君子,fruit of Rangooncreeper,shared|U735|H00781,0,1,0
+332,U730,石榴,石榴,no_exact_match,0,,,,hit|U730,0,1,0
+333,U732,石蒲藤,石蒲藤,no_exact_match,0,,,,hit|U732,0,0,0
+334,U733,石上柏,石上柏,no_exact_match,0,,,,hit|U733,0,1,0
+335,U734,石韦,石韦,no_exact_match,0,,,,hit|U734,0,1,0
+336,U737,柿叶,柿叶,unambiguous_exact,1,H00785,柿叶,Persimmon Leaf,shared|U737|H00785,1,0,0
+337,U738,手参,手参,no_exact_match,0,,,,hit|U738,0,0,0
+338,U141,大黄,大黄,no_exact_match,0,,,,hit|U141,0,1,0
+339,U740,熟地,熟地,no_exact_match,0,,,,hit|U740,0,1,0
+340,U81,蚕蛾,蚕蛾,no_exact_match,0,,,,hit|U81,0,0,0
+341,U741,蜀椒,蜀椒,no_exact_match,0,,,,hit|U741,0,0,0
+342,U745,薯莨,薯莨,no_exact_match,0,,,,hit|U745,0,0,0
+343,U744,鼠曲草,鼠曲草,no_exact_match,0,,,,hit|U744,0,1,0
+344,U746,树舌,树舌,no_exact_match,0,,,,hit|U746,0,0,0
+345,U747,双花,双花,unambiguous_exact,1,H00790,双花,Honeysuckle Flower,shared|U747|H00790,0,0,0
+346,U100,菖蒲,菖蒲,no_exact_match,0,,,,hit|U100,0,0,0
+347,U748,水飞蓟,水飞蓟,unambiguous_exact,1,H01106,水飞蓟,Silybum Marianum,shared|U748|H01106,1,1,1
+348,U325,红花,红花,unambiguous_exact,1,H00369,红花,Safflower,shared|U325|H00369,0,1,0
+349,U749,水红花叶,水红花叶,no_exact_match,0,,,,hit|U749,0,0,0
+350,U751,水牛角,水牛角,no_exact_match,0,,,,hit|U751,0,0,0
+351,U82,蚕茧,蚕茧,no_exact_match,0,,,,hit|U82,0,0,0
+352,U752,水蜈蚣,水蜈蚣,no_exact_match,0,,,,hit|U752,0,0,0
+353,U753,水杨梅,水杨梅,no_exact_match,0,,,,hit|U753,0,0,0
+354,U83,蚕砂,蚕砂,no_exact_match,0,,,,hit|U83,0,1,0
+355,U979,泽兰,泽兰,unambiguous_exact,1,H01017,泽兰,Hirsute Shiny Bugleweed Herb,shared|U979|H01017,0,1,0
+356,U755,丝瓜络,丝瓜络,no_exact_match,0,,,,hit|U755,0,0,0
+357,U756,四季菜,四季菜,no_exact_match,0,,,,hit|U756,0,0,0
+358,U757,四季葱头,四季葱头,no_exact_match,0,,,,hit|U757,0,0,0
+359,U84,蚕蛹,蚕蛹,no_exact_match,0,,,,hit|U84,0,0,0
+360,U758,四季青,四季青,unambiguous_exact,1,H00798,四季青,Purpleflower Holly Leaf,shared|U758|H00798,0,1,0
+361,U759,四块瓦,四块瓦,no_exact_match,0,,,,hit|U759,0,0,0
+362,U761,松节,松节,unambiguous_exact,1,H00800,松节,"Knotty pine wood, Pine nodular branch",shared|U761|H00800,1,0,0
+363,U762,松香,松香,no_exact_match,0,,,,hit|U762,0,0,0
+364,U763,松脂,松脂,no_exact_match,0,,,,hit|U763,0,0,0
+365,U1030,紫苏梗,紫苏梗,no_exact_match,0,,,,hit|U1030,0,0,0
+366,U85,苍耳草,苍耳草,no_exact_match,0,,,,hit|U85,0,0,0
+367,U765,苏合香,苏合香,unambiguous_exact,1,H00803,苏合香,Storax,shared|U765|H00803,0,1,0
+368,U766,苏木,苏木,unambiguous_exact,1,H00804,苏木,Sappan Caesalpinia,shared|U766|H00804,1,0,0
+369,U769,酸模,酸模,unambiguous_exact,1,H00806,酸模,Garden Sorrel,shared|U769|H00806,1,0,0
+370,U770,酸石榴,酸石榴,no_exact_match,0,,,,hit|U770,0,0,0
+371,U771,酸枣,酸枣,unambiguous_exact,1,H00807,酸枣,Spine Date,shared|U771|H00807,1,0,0
+372,U772,酸枣仁,酸枣仁,no_exact_match,0,,,,hit|U772,0,1,0
+373,U774,锁阳,锁阳,no_exact_match,0,,,,hit|U774,0,0,0
+374,U775,太子参,太子参,unambiguous_exact,1,H00814,太子参,Heterophylly Falsestarwort Root,shared|U775|H00814,1,0,0
+375,U86,苍耳子,苍耳子,unambiguous_exact,1,H00094,苍耳子,fruit of Siberian Cockleblur,shared|U86|H00094,1,1,1
+376,U776,檀香,檀香,unambiguous_exact,1,H00815,檀香,Sandalwood,shared|U776|H00815,0,1,0
+377,U663,瑞香,瑞香,no_exact_match,0,,,,hit|U663,0,0,0
+378,U828,乌头,乌头,unambiguous_exact,1,H00870,乌头,"Common Monkshood Equivalent plant: Aconitum karakolicum, Aconitum balfourii",shared|U828|H00870,1,0,0
+379,U777,桃,桃,no_exact_match,0,,,,hit|U777,0,0,0
+380,U778,桃金娘根,桃金娘根,no_exact_match,0,,,,hit|U778,0,0,0
+381,U779,桃仁,桃仁,unambiguous_exact,1,H00820,桃仁,Peach Seed,shared|U779|H00820,0,1,0
+382,U780,桃枝,桃枝,unambiguous_exact,1,H00822,桃枝,Peach Juvenile Branch Equivalent plant: Prunus davidiana,shared|U780|H00822,0,0,0
+383,U781,藤黄,藤黄,unambiguous_exact,1,H00823,藤黄,Gamboge Tree Resin,shared|U781|H00823,1,0,0
+384,U782,藤梨根,藤梨根,no_exact_match,0,,,,hit|U782,0,0,0
+385,U783,藤五加根,藤五加根,no_exact_match,0,,,,hit|U783,0,0,0
+386,U784,天冬,天冬,unambiguous_exact,1,H00825,天冬,Cochinchinese Asparagus Root,shared|U784|H00825,0,1,0
+387,U795,甜瓜子,甜瓜子,unambiguous_exact,1,H00826,甜瓜子,muskmelon seed,shared|U795|H00826,0,1,0
+388,U785,天花粉,天花粉,no_exact_match,0,,,,hit|U785,0,1,0
+389,U794,田基黄,田基黄,no_exact_match,0,,,,hit|U794,0,0,0
+390,U787,天麻,天麻,unambiguous_exact,1,H00828,天麻,Tall Gastrodia,shared|U787|H00828,1,0,0
+391,U788,天名精,天名精,no_exact_match,0,,,,hit|U788,0,0,0
+392,U790,天山雪莲,天山雪莲,no_exact_match,0,,,,hit|U790,0,1,0
+393,U796,甜叶菊,甜叶菊,no_exact_match,0,,,,hit|U796,0,0,0
+394,U793,天竺黄,天竺黄,unambiguous_exact,1,H00832,天竺黄,Chinese schinzostachyum Tabasheer,shared|U793|H00832,1,1,1
+395,U797,铁棒锤叶,铁棒锤叶,no_exact_match,0,,,,hit|U797,0,0,0
+396,U87,苍术,苍术,unambiguous_exact,1,H00095,苍术,Rhizome of Swordlike Atractylodes,shared|U87|H00095,0,1,0
+397,U798,铁扫帚,铁扫帚,no_exact_match,0,,,,hit|U798,0,0,0
+398,U799,铁树叶,铁树叶,no_exact_match,0,,,,hit|U799,0,0,0
+399,U865,苋菜,苋菜,no_exact_match,0,,,,hit|U865,0,0,0
+400,U800,铁线草,铁线草,no_exact_match,0,,,,hit|U800,0,0,0
+401,U801,葶苈草,葶苈草,no_exact_match,0,,,,hit|U801,0,0,0
+402,U803,通草,通草,no_exact_match,0,,,,hit|U803,0,1,0
+403,U60,草贝母,草贝母,no_exact_match,0,,,,hit|U60,0,0,0
+404,U805,透骨草,透骨草,no_exact_match,0,,,,hit|U805,0,1,0
+405,U806,透骨香,透骨香,no_exact_match,0,,,,hit|U806,0,0,0
+406,U807,土贝母,土贝母,no_exact_match,0,,,,hit|U807,0,1,0
+407,U808,土鳖虫,土鳖虫,no_exact_match,0,,,,hit|U808,0,0,0
+408,U809,土大黄,土大黄,no_exact_match,0,,,,hit|U809,0,0,0
+409,U816,兔耳草,兔耳草,no_exact_match,0,,,,hit|U816,0,0,0
+410,U815,兔儿伞,兔儿伞,no_exact_match,0,,,,hit|U815,0,0,0
+411,U810,土茯苓,土茯苓,unambiguous_exact,1,H00838,土茯苓,Glabrous Greenbrier Rhizome,shared|U810|H00838,0,1,0
+412,U811,土甘草,土甘草,no_exact_match,0,,,,hit|U811,0,0,0
+413,U812,土加皮,土加皮,no_exact_match,0,,,,hit|U812,0,0,0
+414,U89,草豆蔻,草豆蔻,no_exact_match,0,,,,hit|U89,0,0,0
+415,U814,土木香,土木香,no_exact_match,0,,,,hit|U814,0,0,0
+416,U715,生地,生地,no_exact_match,0,,,,hit|U715,0,0,0
+417,U817,菟丝子,菟丝子,unambiguous_exact,1,H00841,菟丝子,Dodder Seed,shared|U817|H00841,0,1,0
+418,U838,五加皮,五加皮,no_exact_match,0,,,,hit|U838,0,0,0
+419,U818,瓦楞子,瓦楞子,unambiguous_exact,1,H00843,瓦楞子,Arc Shell,shared|U818|H00843,1,1,1
+420,U90,草果仁,草果仁,no_exact_match,0,,,,hit|U90,0,1,0
+421,U820,王不留行,王不留行,unambiguous_exact,1,H00847,王不留行,"Vacarria seed, Cow soapwort seed",shared|U820|H00847,0,1,0
+422,U823,委陵菜,委陵菜,unambiguous_exact,1,H00851,委陵菜,Chinese Cinquefoil,shared|U823|H00851,0,1,0
+423,U837,五倍子,五倍子,no_exact_match,0,,,,hit|U837,0,1,0
+424,U831,无花果,无花果,no_exact_match,0,,,,hit|U831,0,0,0
+425,U824,乌鸡,乌鸡,unambiguous_exact,1,H00861,乌鸡,Black Chicken,shared|U824|H00861,1,0,0
+426,U839,五灵脂,五灵脂,no_exact_match,0,,,,hit|U839,0,0,0
+427,U826,乌梅,乌梅,unambiguous_exact,1,H00864,乌梅,Smoked Plum,shared|U826|H00864,0,1,0
+428,U840,五味藤,五味藤,no_exact_match,0,,,,hit|U840,0,0,0
+429,U842,五香血藤,五香血藤,no_exact_match,0,,,,hit|U842,0,0,0
+430,U829,乌药,乌药,unambiguous_exact,1,H00872,乌药,Combined Spicebush Root,shared|U829|H00872,0,1,0
+431,U843,五月艾,五月艾,no_exact_match,0,,,,hit|U843,0,0,0
+432,U844,五爪龙,五爪龙,no_exact_match,0,,,,hit|U844,0,0,0
+433,U845,五指毛桃,五指毛桃,no_exact_match,0,,,,hit|U845,0,0,0
+434,U834,吴茱萸,吴茱萸,unambiguous_exact,1,H00876,吴茱萸,Medicil Evodia Fruit,shared|U834|H00876,0,1,0
+435,U630,茜草,茜草,no_exact_match,0,,,,hit|U630,0,1,0
+436,U91,草乌,草乌,no_exact_match,0,,,,hit|U91,0,1,0
+437,U857,细梗胡枝子,细梗胡枝子,no_exact_match,0,,,,hit|U857,0,0,0
+438,U846,西瓜,西瓜,no_exact_match,0,,,,hit|U846,0,0,0
+439,U847,西瓜翠衣,西瓜翠衣,no_exact_match,0,,,,hit|U847,0,0,0
+440,U849,西河柳,西河柳,unambiguous_exact,1,H00880,西河柳,Chinese Tamarisk Twig,shared|U849|H00880,1,1,1
+441,U850,西红花,西红花,unambiguous_exact,1,H00881,西红花,Saffron,shared|U850|H00881,1,0,0
+442,U350,琥珀,琥珀,no_exact_match,0,,,,hit|U350,0,0,0
+443,U375,黄芩,黄芩,unambiguous_exact,1,H00419,黄芩,root of Baikal skullcap,shared|U375|H00419,0,1,0
+444,U856,豨莶草,豨莶草,no_exact_match,0,,,,hit|U856,0,1,0
+445,U852,西洋参,西洋参,unambiguous_exact,1,H00890,西洋参,American Ginseng,shared|U852|H00890,0,1,0
+446,U859,夏枯草,夏枯草,unambiguous_exact,1,H00896,夏枯草,fruit -spike of Common Selfheal,shared|U859|H00896,0,1,0
+447,U860,夏天无,夏天无,no_exact_match,0,,,,hit|U860,0,1,0
+448,U861,仙鹤草,仙鹤草,unambiguous_exact,1,H00905,仙鹤草,all - grss of Hairyvein Agrimonia,shared|U861|H00905,0,1,0
+449,U862,仙茅,仙茅,unambiguous_exact,1,H00908,仙茅,rhizome of Common Curculigo,shared|U862|H00908,0,1,0
+450,U94,茶叶,茶叶,unambiguous_exact,1,H00101,茶叶,Thea sinensis,shared|U94|H00101,0,0,0
+451,U987,浙贝,浙贝,no_exact_match,0,,,,hit|U987,0,1,0
+452,U868,香茶菜,香茶菜,unambiguous_exact,1,H00887,香茶菜,West-Shiko Rabdosia,shared|U868|H00887,1,0,0
+453,U869,香附,香附,unambiguous_exact,1,H00910,香附,rhizome of Nutgrass Galingale,shared|U869|H00910,0,1,0
+454,U870,香菇,香菇,no_exact_match,0,,,,hit|U870,0,0,0
+455,U871,香加皮,香加皮,no_exact_match,0,,,,hit|U871,0,1,0
+456,U879,橡胶,橡胶,no_exact_match,0,,,,hit|U879,0,0,0
+457,U872,香茅,香茅,no_exact_match,0,,,,hit|U872,0,1,0
+458,U877,象皮,象皮,no_exact_match,0,,,,hit|U877,0,0,0
+459,U873,香青兰,香青兰,no_exact_match,0,,,,hit|U873,0,0,0
+460,U874,香薷,香薷,unambiguous_exact,1,H00912,香薷,all-grass of Haichow Elsholtzia,shared|U874|H00912,0,1,0
+461,U866,相思藤,相思藤,no_exact_match,0,,,,hit|U866,0,0,0
+462,U867,相思子,相思子,unambiguous_exact,1,H00913,相思子,Abrus Precatorius L.,shared|U867|H00913,0,1,0
+463,U95,柴胡,柴胡,unambiguous_exact,1,H00103,柴胡,root of Chinese Thorowax,shared|U95|H00103,0,1,0
+464,U875,香橼,香橼,no_exact_match,0,,,,hit|U875,0,1,0
+465,U876,香樟,香樟,no_exact_match,0,,,,hit|U876,0,0,0
+466,U44,百部,百部,no_exact_match,0,,,,hit|U44,0,1,0
+467,U882,小檗根,小檗根,no_exact_match,0,,,,hit|U882,0,0,0
+468,U103,车前子,车前子,unambiguous_exact,1,H00116,车前子,seed of Asiatic pantain,shared|U103|H00116,0,1,0
+469,U880,肖梵天花,肖梵天花,no_exact_match,0,,,,hit|U880,0,0,0
+470,U314,黑豆,黑豆,unambiguous_exact,1,H00358,黑豆,Black bean,shared|U314|H00358,0,1,0
+471,U884,小蓟,小蓟,unambiguous_exact,1,H00919,小蓟,Field Thistle Herb,shared|U884|H00919,0,1,0
+472,U241,浮小麦,浮小麦,no_exact_match,0,,,,hit|U241,0,0,0
+473,U887,小叶黄杨,小叶黄杨,no_exact_match,0,,,,hit|U887,0,0,0
+474,U890,薤白,薤白,unambiguous_exact,1,H00926,薤白,bulb of longstamen onion,shared|U890|H00926,0,1,0
+475,U96,豺皮樟,豺皮樟,no_exact_match,0,,,,hit|U96,0,0,0
+476,U260,藁本,藁本,unambiguous_exact,1,H00283,藁本,Ligustici Rhizoma Et Radix,shared|U260|H00283,0,1,0
+477,U1025,紫草,紫草,unambiguous_exact,1,H01054,紫草,Arnebia Root Gromwell Root,shared|U1025|H01054,0,1,0
+478,U891,辛夷,辛夷,no_exact_match,0,,,,hit|U891,0,1,0
+479,U98,蟾蜍,蟾蜍,no_exact_match,0,,,,hit|U98,0,0,0
+480,U895,熊胆,熊胆,unambiguous_exact,1,H00931,熊胆,Bear Gall,shared|U895|H00931,1,0,0
+481,U894,雄黄连,雄黄连,no_exact_match,0,,,,hit|U894,0,0,0
+482,U897,绣线菊,绣线菊,no_exact_match,0,,,,hit|U897,0,0,0
+483,U898,徐长卿,徐长卿,no_exact_match,0,,,,hit|U898,0,1,0
+484,U900,萱草根,萱草根,unambiguous_exact,1,H00934,萱草根,Hemerocallis Radix,shared|U900|H00934,0,1,0
+485,U903,旋覆花,旋覆花,unambiguous_exact,1,H00935,旋覆花,Inula Flower,shared|U903|H00935,1,1,1
+486,U902,玄胡,玄胡,no_exact_match,0,,,,hit|U902,0,0,0
+487,U901,玄参,玄参,unambiguous_exact,1,H00937,玄参,Figwort Root,shared|U901|H00937,0,1,0
+488,U906,血风藤,血风藤,no_exact_match,0,,,,hit|U906,0,0,0
+489,U905,雪莲,雪莲,unambiguous_exact,1,H00939,雪莲,Snow Lotus,shared|U905|H00939,1,0,0
+490,U908,血人参,血人参,no_exact_match,0,,,,hit|U908,0,0,0
+491,U909,血蝎,血蝎,no_exact_match,0,,,,hit|U909,0,0,0
+492,U911,寻骨风,寻骨风,no_exact_match,0,,,,hit|U911,0,1,0
+493,U912,鸦胆子,鸦胆子,unambiguous_exact,1,H00940,鸦胆子,Java Brucea Fruit,shared|U912|H00940,0,1,0
+494,U913,鸭脚艾,鸭脚艾,unambiguous_exact,1,H00942,鸭脚艾,Ghostplant Wormwood,shared|U913|H00942,1,0,0
+495,U918,亚麻子,亚麻子,unambiguous_exact,1,H00943,亚麻子,Linseed,shared|U918|H00943,0,1,0
+496,U915,牙皂,牙皂,no_exact_match,0,,,,hit|U915,0,0,0
+497,U914,鸭跖草,鸭跖草,unambiguous_exact,1,H00944,鸭跖草,all-grass of Common Dayflower,shared|U914|H00944,0,1,0
+498,U921,岩柏,岩柏,no_exact_match,0,,,,hit|U921,0,0,0
+499,U920,岩白菜,岩白菜,no_exact_match,0,,,,hit|U920,0,0,0
+500,U922,盐肤木,盐肤木,no_exact_match,0,,,,hit|U922,0,0,0
+501,U363,黄柏,黄柏,ambiguous_exact,2,,,,hit|U363,0,1,0
+502,U340,胡芦巴,胡芦巴,unambiguous_exact,1,H00387,胡芦巴,Trigonellae Semen,shared|U340|H00387,0,1,0
+503,U919,延胡索,延胡索,unambiguous_exact,1,H00946,延胡索,Corydalis tuber,shared|U919|H00946,1,1,1
+504,U968,芫花,芫花,unambiguous_exact,1,H00996,芫花,flower bud of Lilac Daphne,shared|U968|H00996,0,1,0
+505,U101,常山,常山,unambiguous_exact,1,H00108,常山,root of antifebrile Dichroa,shared|U101|H00108,0,1,0
+506,U923,眼镜蛇,眼镜蛇,no_exact_match,0,,,,hit|U923,0,0,0
+507,U102,车前草,车前草,unambiguous_exact,1,H00115,车前草,all-grass of Rippleseed plantain,shared|U102|H00115,0,1,0
+508,U929,洋葱,洋葱,no_exact_match,0,,,,hit|U929,0,0,0
+509,U924,羊角七,羊角七,no_exact_match,0,,,,hit|U924,0,0,0
+510,U930,洋金花,洋金花,unambiguous_exact,1,H00949,洋金花,Datura Flower,shared|U930|H00949,0,1,0
+511,U928,杨梅根,杨梅根,no_exact_match,0,,,,hit|U928,0,0,0
+512,U925,羊奶奶叶,羊奶奶叶,no_exact_match,0,,,,hit|U925,0,0,0
+513,U926,羊肉,羊肉,no_exact_match,0,,,,hit|U926,0,0,0
+514,U927,羊蹄根,羊蹄根,no_exact_match,0,,,,hit|U927,0,0,0
+515,U931,洋泻,洋泻,no_exact_match,0,,,,hit|U931,0,0,0
+516,U182,颠茄草,颠茄草,no_exact_match,0,,,,hit|U182,0,0,0
+517,U932,野姜,野姜,no_exact_match,0,,,,hit|U932,0,0,0
+518,U934,野马追,野马追,no_exact_match,0,,,,hit|U934,0,0,0
+519,U935,野玫瑰果,野玫瑰果,no_exact_match,0,,,,hit|U935,0,0,0
+520,U571,牡丹,牡丹,no_exact_match,0,,,,hit|U571,0,0,0
+521,U937,叶下珠,叶下珠,unambiguous_exact,1,H00960,叶下珠,Common Leafflower,shared|U937|H00960,1,0,0
+522,U941,伊贝母,伊贝母,no_exact_match,0,,,,hit|U941,0,1,0
+523,U938,一点红,一点红,no_exact_match,0,,,,hit|U938,0,0,0
+524,U942,饴糖,饴糖,no_exact_match,0,,,,hit|U942,0,0,0
+525,U945,薏苡仁,薏苡仁,no_exact_match,0,,,,hit|U945,0,1,0
+526,U944,益智仁,益智仁,unambiguous_exact,1,H00968,益智仁,Sharpleaf Galangal,shared|U944|H00968,1,1,1
+527,U939,一枝蒿,一枝蒿,no_exact_match,0,,,,hit|U939,0,0,0
+528,U104,沉香,沉香,unambiguous_exact,1,H00120,沉香,Oily wood of Agalloch Eaglewood,shared|U104|H00120,0,1,0
+529,U950,银柴胡,银柴胡,unambiguous_exact,1,H00973,银柴胡,Starwort Root,shared|U950|H00973,0,1,0
+530,U6,安息香,安息香,unambiguous_exact,1,H00009,安息香,Benzoin,shared|U6|H00009,0,1,0
+531,U885,小麦,小麦,no_exact_match,0,,,,hit|U885,0,0,0
+532,U947,阴行草,阴行草,unambiguous_exact,1,H00976,阴行草,Chinese Siphonostegia,shared|U947|H00976,1,0,0
+533,U951,银杏叶,银杏叶,no_exact_match,0,,,,hit|U951,0,1,0
+534,U952,淫羊藿,淫羊藿,no_exact_match,0,,,,hit|U952,0,1,0
+535,U955,鹰不泊,鹰不泊,no_exact_match,0,,,,hit|U955,0,0,0
+536,U956,映山红,映山红,no_exact_match,0,,,,hit|U956,0,0,0
+537,U953,罂粟,罂粟,unambiguous_exact,1,H00978,罂粟,Opium Poppy,shared|U953|H00978,1,1,1
+538,U958,余甘子,余甘子,unambiguous_exact,1,H00983,余甘子,Emblic Leafflower Fruit,shared|U958|H00983,1,1,1
+539,U963,郁金,郁金,no_exact_match,0,,,,hit|U963,0,1,0
+540,U964,郁李仁,郁李仁,unambiguous_exact,1,H00984,郁李仁,Chinese Dwarf Cherry Seed,shared|U964|H00984,0,1,0
+541,U961,玉米须,玉米须,unambiguous_exact,1,H00986,玉米须,Corn stigma,shared|U961|H00986,0,1,0
+542,U959,鱼腥草,鱼腥草,unambiguous_exact,1,H00987,鱼腥草,all-grass of Heartleaf Houttuynia,shared|U959|H00987,0,1,0
+543,U110,赤小豆,赤小豆,unambiguous_exact,1,H00127,赤小豆,Rice Bean,shared|U110|H00127,1,1,1
+544,U962,玉竹,玉竹,no_exact_match,0,,,,hit|U962,0,1,0
+545,U967,元胡,元胡,no_exact_match,0,,,,hit|U967,0,0,0
+546,U966,元参,元参,no_exact_match,0,,,,hit|U966,0,0,0
+547,U970,远志,远志,unambiguous_exact,1,H01001,远志,Thinleaf Milkwort Equivalent plant: Polygala sibirica,shared|U970|H01001,1,0,0
+548,U971,月季花,月季花,unambiguous_exact,1,H01002,月季花,Chinese rose flower,shared|U971|H01002,0,1,0
+549,U107,赤茯苓,赤茯苓,no_exact_match,0,,,,hit|U107,0,0,0
+550,U973,云芝,云芝,no_exact_match,0,,,,hit|U973,0,1,0
+551,U977,皂角刺,皂角刺,unambiguous_exact,1,H01016,皂角刺,spine of Chinese Honeylocust,shared|U977|H01016,0,1,0
+552,U151,大皂角,大皂角,no_exact_match,0,,,,hit|U151,0,1,0
+553,U974,蚤休,蚤休,no_exact_match,0,,,,hit|U974,0,0,0
+554,U108,赤芍,赤芍,unambiguous_exact,1,H00126,赤芍,Red Peony root,shared|U108|H00126,1,1,1
+555,U983,樟木,樟木,no_exact_match,0,,,,hit|U983,0,0,0
+556,U984,樟脑,樟脑,no_exact_match,0,,,,hit|U984,0,0,0
+557,U982,章鱼,章鱼,no_exact_match,0,,,,hit|U982,0,0,0
+558,U985,照山白,照山白,unambiguous_exact,1,H01024,照山白,Manchurian Rhododendron,shared|U985|H01024,1,0,0
+559,U7,按叶,按叶,no_exact_match,0,,,,hit|U7,0,0,0
+560,U988,珍珠,珍珠,unambiguous_exact,1,H01025,珍珠,Pearl,shared|U988|H01025,1,0,0
+561,U989,珍珠菜,珍珠菜,no_exact_match,0,,,,hit|U989,0,0,0
+562,U990,珍珠草,珍珠草,no_exact_match,0,,,,hit|U990,0,0,0
+563,U991,珍珠层粉,珍珠层粉,no_exact_match,0,,,,hit|U991,0,0,0
+564,U112,虫白蜡,虫白蜡,no_exact_match,0,,,,hit|U112,0,0,0
+565,U998,枳壳,枳壳,ambiguous_exact,2,,,,hit|U998,0,1,0
+566,U994,知母,知母,unambiguous_exact,1,H01035,知母,rhizome of Common Amarrhe; Rhizoma Anemarrhee,shared|U994|H01035,1,1,1
+567,U308,何首乌,何首乌,unambiguous_exact,1,H00353,何首乌,Tuber Fleeceflower,shared|U308|H00353,1,0,0
+568,U113,臭灵丹,臭灵丹,no_exact_match,0,,,,hit|U113,0,0,0
+569,U996,蜘蛛香,蜘蛛香,unambiguous_exact,1,H01039,蜘蛛香,Jatamans Valeriana,shared|U996|H01039,1,0,0
+570,U1002,重楼,重楼,no_exact_match,0,,,,hit|U1002,0,0,0
+571,U1007,猪大肠,猪大肠,no_exact_match,0,,,,hit|U1007,0,0,0
+572,U1008,猪胆,猪胆,no_exact_match,0,,,,hit|U1008,0,0,0
+573,U238,茯神,茯神,no_exact_match,0,,,,hit|U238,0,0,0
+574,U114,臭牡丹,臭牡丹,no_exact_match,0,,,,hit|U114,0,0,0
+575,U1013,竹红菌,竹红菌,no_exact_match,0,,,,hit|U1013,0,0,0
+576,U1009,猪脊髓,猪脊髓,no_exact_match,0,,,,hit|U1009,0,0,0
+577,U1015,竹节香附,竹节香附,no_exact_match,0,,,,hit|U1015,0,0,0
+578,U116,楮实子,楮实子,no_exact_match,0,,,,hit|U116,0,1,0
+579,U1010,猪苓,猪苓,no_exact_match,0,,,,hit|U1010,0,1,0
+580,U1004,朱砂,朱砂,no_exact_match,0,,,,hit|U1004,0,0,0
+581,U1005,朱砂莲,朱砂莲,no_exact_match,0,,,,hit|U1005,0,0,0
+582,U1012,猪牙皂,猪牙皂,no_exact_match,0,,,,hit|U1012,0,1,0
+583,U161,淡竹叶,淡竹叶,no_exact_match,0,,,,hit|U161,0,0,0
+584,U1006,珠子参,珠子参,unambiguous_exact,1,H01052,珠子参,Largeleaf Japanese Ginseng Rhizome,shared|U1006|H01052,0,0,0
+585,U1022,抓地虎,抓地虎,no_exact_match,0,,,,hit|U1022,0,0,0
+586,U115,臭梧桐,臭梧桐,no_exact_match,0,,,,hit|U115,0,1,0
+587,U1023,紫贝齿,紫贝齿,no_exact_match,0,,,,hit|U1023,0,0,0
+588,U155,丹参,丹参,unambiguous_exact,1,H00182,丹参,Radix Salviae liguliobae,shared|U155|H00182,1,1,1
+589,U1026,紫河车,紫河车,no_exact_match,0,,,,hit|U1026,0,0,0
+590,U1027,紫金牛,紫金牛,unambiguous_exact,1,H01057,紫金牛,Japanese Ardisia,shared|U1027|H01057,1,0,0
+591,U1031,紫苏叶,紫苏叶,no_exact_match,0,,,,hit|U1031,0,1,0
+592,U1032,紫檀,紫檀,no_exact_match,0,,,,hit|U1032,0,0,0
+593,U1034,紫葳根皮,紫葳根皮,no_exact_match,0,,,,hit|U1034,0,0,0
+594,U1038,棕板,棕板,no_exact_match,0,,,,hit|U1038,0,0,0
+595,U1039,棕榈,棕榈,no_exact_match,0,,,,hit|U1039,0,0,0
+596,U1040,钻地风,钻地风,no_exact_match,0,,,,hit|U1040,0,0,0
+597,U1041,钻骨风,钻骨风,no_exact_match,0,,,,hit|U1041,0,0,0
+598,U1042,醉仙桃,醉仙桃,no_exact_match,0,,,,hit|U1042,0,0,0
+599,U1043,酢浆草,酢浆草,unambiguous_exact,1,H01068,酢浆草,Creeping Oxalis,shared|U1043|H01068,1,0,0
+600,U121,穿壁风,穿壁风,no_exact_match,0,,,,hit|U121,0,0,0
+601,U168,灯心草,灯心草,unambiguous_exact,1,H00193,灯心草,pith of Common Rush,shared|U168|H00193,0,1,0
+602,U196,独活,独活,unambiguous_exact,1,H00219,独活,Doubleteeth Pubescent Angelica Root,shared|U196|H00219,0,1,0
+603,U10,巴豆,巴豆,unambiguous_exact,1,H00012,巴豆,Fructus Crotonis,shared|U10|H00012,0,1,0
+604,U201,杜仲,杜仲,unambiguous_exact,1,H00221,杜仲,Eucommia bark,shared|U201|H00221,1,1,1
+605,U899,续断,续断,unambiguous_exact,1,H00933,续断,Himalayan Teasel Root,shared|U899|H00933,0,1,0
+606,U118,川楝子,川楝子,unambiguous_exact,1,H00136,川楝子,Szechwan Chiberry Fruit,shared|U118|H00136,0,1,0
+607,U124,穿山龙,穿山龙,no_exact_match,0,,,,hit|U124,0,1,0
+608,U122,穿破石,穿破石,unambiguous_exact,1,H00140,穿破石,root of Tricuspid cudrania,shared|U122|H00140,1,0,0
+609,U335,厚朴,厚朴,ambiguous_exact,2,,,,hit|U335,0,1,0
+610,U119,川乌,川乌,no_exact_match,0,,,,hit|U119,0,1,0
+611,U125,穿心莲,穿心莲,unambiguous_exact,1,H00768,穿心莲,Elongate Andrographis,shared|U125|H00768,1,1,1
+612,U11,巴豆叶,巴豆叶,no_exact_match,0,,,,hit|U11,0,0,0
+613,U126,穿心莲叶,穿心莲叶,no_exact_match,0,,,,hit|U126,0,0,0
+614,U120,川芎,川芎,unambiguous_exact,1,H00142,川芎,"Chuanxiong rhizome, Szechuan lovage root",shared|U120|H00142,1,1,1
+615,U12,巴戟天,巴戟天,unambiguous_exact,1,H00014,巴戟天,Morindae Officilis Radix,shared|U12|H00014,0,1,0
+616,U127,垂盆草,垂盆草,unambiguous_exact,1,H00143,垂盆草,all - grass of Stringy stonecrop,shared|U127|H00143,1,1,1
+617,U129,椿皮,椿皮,unambiguous_exact,1,H00144,椿皮,"Ailanthus bark, Tree of heaven bark",shared|U129|H00144,0,1,0
+618,U128,春根藤,春根藤,no_exact_match,0,,,,hit|U128,0,0,0
+619,U619,荠菜,荠菜,unambiguous_exact,1,H00425,荠菜,all-grass of Shepherdspurse,shared|U619|H00425,0,1,0
+620,U131,刺梨果,刺梨果,no_exact_match,0,,,,hit|U131,0,0,0
+621,U134,刺苋,刺苋,no_exact_match,0,,,,hit|U134,0,0,0
+622,U132,刺猬皮,刺猬皮,no_exact_match,0,,,,hit|U132,0,0,0
+623,U133,刺五加,刺五加,unambiguous_exact,1,H00150,刺五加,Manypr ickle Acanthopana x,shared|U133|H00150,1,0,0
+624,U135,葱白,葱白,no_exact_match,0,,,,hit|U135,0,1,0
+625,U136,翠云草,翠云草,no_exact_match,0,,,,hit|U136,0,0,0
+626,U8,八角莲,八角莲,unambiguous_exact,1,H00016,八角莲,Dysosmae Verspiellis Rhixoma Et Radix,shared|U8|H00016,1,0,0
+627,U138,大风艾,大风艾,no_exact_match,0,,,,hit|U138,0,0,0
+628,U140,大腹皮,大腹皮,no_exact_match,0,,,,hit|U140,0,1,0
+629,U143,大蓟,大蓟,ambiguous_exact,4,,,,hit|U143,0,1,0
+630,U144,大力子,大力子,no_exact_match,0,,,,hit|U144,0,0,0
+631,U145,大青盐,大青盐,no_exact_match,0,,,,hit|U145,0,0,0
+632,U147,大蒜,大蒜,no_exact_match,0,,,,hit|U147,0,1,0
+633,U148,大血藤,大血藤,no_exact_match,0,,,,hit|U148,0,1,0
+634,U149,大叶紫珠,大叶紫珠,no_exact_match,0,,,,hit|U149,0,0,0
+635,U150,大枣,大枣,no_exact_match,0,,,,hit|U150,0,1,0
+636,U159,淡菜,淡菜,no_exact_match,0,,,,hit|U159,0,0,0
+637,U160,淡豆豉,淡豆豉,unambiguous_exact,1,H00180,淡豆豉,Fermented Soybean,shared|U160|H00180,1,1,1
+638,U3,阿魏,阿魏,unambiguous_exact,1,H00004,阿魏,Asafetida Giantfennel Resin,shared|U3|H00004,1,0,0
+639,U157,单面针,单面针,no_exact_match,0,,,,hit|U157,0,0,0
+640,U158,胆南星,胆南星,no_exact_match,0,,,,hit|U158,0,0,0
+641,U162,当归,当归,unambiguous_exact,1,H00186,当归,root of Chinese Angelica,shared|U162|H00186,0,1,0
+642,U164,党参,党参,unambiguous_exact,1,H00187,党参,root Pilose Asiabell,shared|U164|H00187,1,1,1
+643,U163,当药,当药,no_exact_match,0,,,,hit|U163,0,0,0
+644,U165,刀豆,刀豆,unambiguous_exact,1,H00189,刀豆,Jack Bean,shared|U165|H00189,0,1,0
+645,U166,倒扣草,倒扣草,no_exact_match,0,,,,hit|U166,0,0,0
+646,U170,地耳草,地耳草,unambiguous_exact,1,H00195,地耳草,all - grass of Japanese St. Johnswort,shared|U170|H00195,0,1,0
+647,U171,地枫皮,地枫皮,unambiguous_exact,1,H00196,地枫皮,Difengpi Bark,shared|U171|H00196,0,1,0
+648,U172,地肤子,地肤子,unambiguous_exact,1,H00197,地肤子,fruit of Belvedere,shared|U172|H00197,1,1,1
+649,U173,地骨皮,地骨皮,unambiguous_exact,1,H00198,地骨皮,root - bark of Chinese Wolfberry,shared|U173|H00198,1,1,1
+650,U175,地锦草,地锦草,unambiguous_exact,1,H00201,地锦草,all - grass of Humifuse Euphorbia,shared|U175|H00201,0,1,0
+651,U177,地绵草,地绵草,no_exact_match,0,,,,hit|U177,0,0,0
+652,U178,地青皮,地青皮,no_exact_match,0,,,,hit|U178,0,0,0
+653,U179,地桃花,地桃花,no_exact_match,0,,,,hit|U179,0,0,0
+654,U180,地榆,地榆,unambiguous_exact,1,H00203,地榆,Root of Garden Burnet,shared|U180|H00203,0,1,0
+655,U1019,竹叶,竹叶,no_exact_match,0,,,,hit|U1019,0,0,0
+656,U183,丁公藤,丁公藤,unambiguous_exact,1,H00206,丁公藤,Stem of Taiwan Erycibe,shared|U183|H00206,0,1,0
+657,U184,丁葵草,丁葵草,no_exact_match,0,,,,hit|U184,0,0,0
+658,U185,丁香,丁香,unambiguous_exact,1,H00207,丁香,Clove,shared|U185|H00207,0,1,0
+659,U186,丁香叶,丁香叶,no_exact_match,0,,,,hit|U186,0,0,0
+660,U188,冬虫夏草,冬虫夏草,unambiguous_exact,1,H00210,冬虫夏草,Chinese Caterpillar Fungus,shared|U188|H00210,1,1,1
+661,U187,东风橘,东风橘,no_exact_match,0,,,,hit|U187,0,0,0
+662,U189,冬瓜皮,冬瓜皮,no_exact_match,0,,,,hit|U189,0,1,0
+663,U190,冬瓜子,冬瓜子,no_exact_match,0,,,,hit|U190,0,1,0
+664,U192,冬凌草,冬凌草,no_exact_match,0,,,,hit|U192,0,0,0
+665,U193,冬青,冬青,no_exact_match,0,,,,hit|U193,0,0,0
+666,U194,冬青叶,冬青叶,no_exact_match,0,,,,hit|U194,0,0,0
+667,U14,白茶,白茶,no_exact_match,0,,,,hit|U14,0,0,0
+668,U195,豆蔻,豆蔻,unambiguous_exact,1,H00217,豆蔻,Round Cardamon Fruit,shared|U195|H00217,1,1,1
+669,U200,杜衡,杜衡,no_exact_match,0,,,,hit|U200,0,0,0
+670,U197,独角莲,独角莲,no_exact_match,0,,,,hit|U197,0,0,0
+671,U198,独脚球,独脚球,no_exact_match,0,,,,hit|U198,0,0,0
+672,U199,独一味,独一味,unambiguous_exact,1,H00220,独一味,Common Lamiophlomis,shared|U199|H00220,1,0,0
+673,U202,杜仲叶,杜仲叶,no_exact_match,0,,,,hit|U202,0,1,0
+674,U206,鹅不食草,鹅不食草,unambiguous_exact,1,H00234,鹅不食草,Small Centipeda Herb,shared|U206|H00234,0,1,0
+675,U204,莪大夏,莪大夏,no_exact_match,0,,,,hit|U204,0,0,0
+676,U208,耳草,耳草,unambiguous_exact,1,H00238,耳草,Auricled Hedyotis,shared|U208|H00238,1,0,0
+677,U212,翻白草,翻白草,unambiguous_exact,1,H00240,翻白草,all-grass of discolor cinquefoil,shared|U212|H00240,0,1,0
+678,U210,番石榴,番石榴,no_exact_match,0,,,,hit|U210,0,0,0
+679,U211,番泻叶,番泻叶,unambiguous_exact,1,H00241,番泻叶,Sen leaf,shared|U211|H00241,0,1,0
+680,U207,儿茶,儿茶,unambiguous_exact,1,H00239,儿茶,"Cutch, Black Catechu",shared|U207|H00239,1,1,1
+681,U214,防风,防风,unambiguous_exact,1,H00242,防风,root of Divaricate Saposhnikovia,shared|U214|H00242,0,1,0
+682,U215,防风草,防风草,no_exact_match,0,,,,hit|U215,0,0,0
+683,U213,方海,方海,unambiguous_exact,1,H00243,方海,,shared|U213|H00243,1,0,0
+684,U216,防己,防己,unambiguous_exact,1,H00244,防己,Root of Fourstamen Stephania,shared|U216|H00244,1,1,1
+685,U217,飞扬草,飞扬草,no_exact_match,0,,,,hit|U217,0,0,0
+686,U236,茯苓,茯苓,unambiguous_exact,1,H00262,茯苓,Indian Bread,shared|U236|H00262,1,1,1
+687,U220,粉葛,粉葛,unambiguous_exact,1,H00248,粉葛,Thomson Kudzuvine,shared|U220|H00248,0,0,0
+688,U225,蜂房,蜂房,unambiguous_exact,1,H00252,蜂房,Honeycomb,shared|U225|H00252,1,0,0
+689,U228,蜂蜜,蜂蜜,no_exact_match,0,,,,hit|U228,0,0,0
+690,U222,枫茄花,枫茄花,no_exact_match,0,,,,hit|U222,0,0,0
+691,U223,枫树叶,枫树叶,no_exact_match,0,,,,hit|U223,0,0,0
+692,U221,风藤,风藤,no_exact_match,0,,,,hit|U221,0,0,0
+693,U230,凤尾草,凤尾草,unambiguous_exact,1,H00255,凤尾草,all - grass of Chinese Brake,shared|U230|H00255,0,1,0
+694,U231,凤仙花,凤仙花,no_exact_match,0,,,,hit|U231,0,0,0
+695,U232,凤仙透骨草,凤仙透骨草,unambiguous_exact,1,H00257,凤仙透骨草,all-grass of Tubercultae speranskia,shared|U232|H00257,0,1,0
+696,U224,枫香脂,枫香脂,no_exact_match,0,,,,hit|U224,0,0,0
+697,U4,矮地茶,矮地茶,unambiguous_exact,1,H00005,矮地茶,Japanese Ardisia Herb,shared|U4|H00005,1,1,1
+698,U18,白果,白果,unambiguous_exact,1,H00025,白果,Ginkgo seed,shared|U18|H00025,0,1,0
+699,U235,扶芳藤,扶芳藤,no_exact_match,0,,,,hit|U235,0,0,0
+700,U237,茯苓皮,茯苓皮,no_exact_match,0,,,,hit|U237,0,0,0
+701,U243,覆盆子,覆盆子,unambiguous_exact,1,H00263,覆盆子,Rubi Fructus,shared|U243|H00263,0,1,0
+702,U240,浮萍,浮萍,unambiguous_exact,1,H00264,浮萍,all-grass of Common Ducksmeat,shared|U240|H00264,0,1,0
+703,U234,佛手,佛手,unambiguous_exact,1,H00261,佛手,Finger Citron,shared|U234|H00261,0,1,0
+704,U45,百合,百合,unambiguous_exact,1,H00027,百合,Bulb of Greenish Lily,shared|U45|H00027,1,1,1
+705,U292,蛤蚧,蛤蚧,no_exact_match,0,,,,hit|U292,0,0,0
+706,U293,蛤壳,蛤壳,unambiguous_exact,1,H00294,蛤壳,Clam Shell,shared|U293|H00294,1,0,0
+707,U339,胡椒,胡椒,unambiguous_exact,1,H00386,胡椒,Pepper Fruit,shared|U339|H00386,0,1,0
+708,U262,葛根,葛根,unambiguous_exact,1,H00292,葛根,root of lobed kudzuvine,shared|U262|H00292,0,1,0
+709,U245,甘菊花,甘菊花,no_exact_match,0,,,,hit|U245,0,0,0
+710,U251,橄榄,橄榄,unambiguous_exact,1,H00274,橄榄,Cabbage,shared|U251|H00274,0,0,0
+711,U512,鹿肉,鹿肉,no_exact_match,0,,,,hit|U512,0,0,0
+712,U246,甘青青兰,甘青青兰,unambiguous_exact,1,H00276,甘青青兰,all-grass of Tangut Dragonhead,shared|U246|H00276,1,0,0
+713,U247,甘松,甘松,unambiguous_exact,1,H00277,甘松,rdostachys Root,shared|U247|H00277,0,1,0
+714,U19,白花菜子,白花菜子,unambiguous_exact,1,H00028,白花菜子,Semen Cleomis,shared|U19|H00028,0,1,0
+715,U248,甘遂,甘遂,unambiguous_exact,1,H00280,甘遂,root of Gansui,shared|U248|H00280,0,1,0
+716,U249,甘蔗,甘蔗,no_exact_match,0,,,,hit|U249,0,0,0
+717,U255,岗稔子,岗稔子,no_exact_match,0,,,,hit|U255,0,0,0
+718,U257,高丽参,高丽参,unambiguous_exact,1,H00289,高丽参,Korea ginseng,shared|U257|H00289,1,0,0
+719,U263,葛花,葛花,unambiguous_exact,1,H00293,葛花,flower bud of lobed kudzuvine,shared|U263|H00293,0,1,0
+720,U266,狗脊,狗脊,unambiguous_exact,1,H00301,狗脊,Cochinchina Cudrania,shared|U266|H00301,1,0,0
+721,U265,钩藤,钩藤,unambiguous_exact,1,H00309,钩藤,Gambir Plant,shared|U265|H00309,0,1,0
+722,U269,谷精草,谷精草,unambiguous_exact,1,H00311,谷精草,Pipewort Flower,shared|U269|H00311,0,1,0
+723,U271,骨碎补,骨碎补,unambiguous_exact,1,H00313,骨碎补,rhizome of Heartleaf Dryria,shared|U271|H00313,0,1,0
+724,U273,瓜蒂,瓜蒂,unambiguous_exact,1,H00315,瓜蒂,Muskmelon base,shared|U273|H00315,0,1,0
+725,U274,瓜蒌,瓜蒌,no_exact_match,0,,,,hit|U274,0,1,0
+726,U275,瓜蒌皮,瓜蒌皮,no_exact_match,0,,,,hit|U275,0,0,0
+727,U276,瓜蒌仁,瓜蒌仁,no_exact_match,0,,,,hit|U276,0,0,0
+728,U20,白花蛇舌草,白花蛇舌草,unambiguous_exact,1,H00033,白花蛇舌草,all - grass of Spreading Hedyotis,shared|U20|H00033,0,1,0
+729,U583,木桶,木桶,no_exact_match,0,,,,hit|U583,0,0,0
+730,U21,白及,白及,no_exact_match,0,,,,hit|U21,0,0,0
+731,U280,龟甲,龟甲,no_exact_match,0,,,,hit|U280,0,0,0
+732,U282,鬼箭羽,鬼箭羽,ambiguous_exact,2,,,,hit|U282,0,1,0
+733,U398,僵蚕,僵蚕,no_exact_match,0,,,,hit|U398,0,0,0
+734,U284,桂皮,桂皮,no_exact_match,0,,,,hit|U284,0,0,0
+735,U285,桂圆,桂圆,no_exact_match,0,,,,hit|U285,0,0,0
+736,U286,桂枝,桂枝,unambiguous_exact,1,H00334,桂枝,Cassia Twig,shared|U286|H00334,0,1,0
+737,U287,过岗龙,过岗龙,no_exact_match,0,,,,hit|U287,0,0,0
+738,U288,过江龙,过江龙,no_exact_match,0,,,,hit|U288,0,0,0
+739,U289,过路黄,过路黄,no_exact_match,0,,,,hit|U289,0,0,0
+740,U23,白胶香,白胶香,no_exact_match,0,,,,hit|U23,0,0,0
+741,U296,海风藤,海风藤,no_exact_match,0,,,,hit|U296,0,1,0
+742,U297,海金沙,海金沙,unambiguous_exact,1,H00340,海金沙,spore of Japanese climbing Fern,shared|U297|H00340,0,1,0
+743,U294,海参,海参,unambiguous_exact,1,H01109,海参,Sea Cucumber,shared|U294|H01109,1,0,0
+744,U302,海藻,海藻,unambiguous_exact,1,H00342,海藻,seaweed,shared|U302|H00342,1,1,1
+745,U303,韩信草,韩信草,unambiguous_exact,1,H00348,韩信草,Indian Skullcap,shared|U303|H00348,1,0,0
+746,U699,芍药,芍药,no_exact_match,0,,,,hit|U699,0,0,0
+747,U309,荷包草,荷包草,no_exact_match,0,,,,hit|U309,0,0,0
+748,U310,荷梗,荷梗,no_exact_match,0,,,,hit|U310,0,0,0
+749,U313,鹤虱,鹤虱,unambiguous_exact,1,H00352,鹤虱,Common Carpesium Fruit,shared|U313|H00352,1,1,1
+750,U312,核桃,核桃,no_exact_match,0,,,,hit|U312,0,1,0
+751,U311,荷叶,荷叶,unambiguous_exact,1,H00355,荷叶,Lotus leaf,shared|U311|H00355,0,1,0
+752,U305,诃子,诃子,unambiguous_exact,1,H00356,诃子,Medicine Termilia Fruit,shared|U305|H00356,0,1,0
+753,U68,薜荔,薜荔,no_exact_match,0,,,,hit|U68,0,0,0
+754,U315,黑姜,黑姜,no_exact_match,0,,,,hit|U315,0,0,0
+755,U317,黑面神,黑面神,no_exact_match,0,,,,hit|U317,0,0,0
+756,U318,黑木耳,黑木耳,no_exact_match,0,,,,hit|U318,0,0,0
+757,U319,黑芝麻,黑芝麻,no_exact_match,0,,,,hit|U319,0,1,0
+758,U320,黑种草,黑种草,no_exact_match,0,,,,hit|U320,0,0,0
+759,U322,红豆,红豆,no_exact_match,0,,,,hit|U322,0,0,0
+760,U26,白蔹,白蔹,unambiguous_exact,1,H00040,白蔹,root of Japanese Ampelopsis,shared|U26|H00040,0,1,0
+761,U323,红根草,红根草,no_exact_match,0,,,,hit|U323,0,0,0
+762,U324,红管药,红管药,no_exact_match,0,,,,hit|U324,0,0,0
+763,U331,洪连,洪连,unambiguous_exact,1,H00374,洪连,all-grass of Shorttube Lagotis,shared|U331|H00374,1,0,0
+764,U321,红参,红参,unambiguous_exact,1,H00377,红参,Red Ginseng,shared|U321|H00377,1,1,1
+765,U332,猴耳环,猴耳环,no_exact_match,0,,,,hit|U332,0,0,0
+766,U27,白马骨,白马骨,unambiguous_exact,1,H00042,白马骨,all - grass of Snow of June.,shared|U27|H00042,1,0,0
+767,U336,厚朴花,厚朴花,ambiguous_exact,2,,,,hit|U336,0,0,0
+768,U333,猴头菌,猴头菌,no_exact_match,0,,,,hit|U333,0,0,0
+769,U347,虎刺,虎刺,no_exact_match,0,,,,hit|U347,0,0,0
+770,U30,白茅根,白茅根,ambiguous_exact,2,,,,hit|U30,0,1,0
+771,U348,虎耳草,虎耳草,unambiguous_exact,1,H00383,虎耳草,stem or leaf of Fung Waxplant,shared|U348|H00383,0,1,0
+772,U338,胡黄连,胡黄连,unambiguous_exact,1,H00384,胡黄连,Picrorhizae Rhizoma,shared|U338|H00384,0,1,0
+773,U346,槲寄生,槲寄生,unambiguous_exact,1,H00385,槲寄生,Colored Mistletoe Herb,shared|U346|H00385,0,1,0
+774,U343,葫芦茶,葫芦茶,unambiguous_exact,1,H00388,葫芦茶,Triquetrous Tadehagi,shared|U343|H00388,1,0,0
+775,U344,葫芦壳,葫芦壳,no_exact_match,0,,,,hit|U344,0,0,0
+776,U917,亚麻,亚麻,no_exact_match,0,,,,hit|U917,0,0,0
+777,U341,胡麻仁,胡麻仁,no_exact_match,0,,,,hit|U341,0,0,0
+778,U342,胡颓子叶,胡颓子叶,no_exact_match,0,,,,hit|U342,0,0,0
+779,U32,白眉,白眉,no_exact_match,0,,,,hit|U32,0,0,0
+780,U349,虎杖,虎杖,unambiguous_exact,1,H00391,虎杖,rhizome of Gaint Knotweed,shared|U349|H00391,0,1,0
+781,U351,花椒,花椒,unambiguous_exact,1,H00395,花椒,Pricklyash Peel,shared|U351|H00395,1,1,1
+782,U352,花蕊石,花蕊石,unambiguous_exact,1,H00399,花蕊石,Ophicalcite,shared|U352|H00399,1,0,0
+783,U33,白梅花,白梅花,unambiguous_exact,1,H00047,白梅花,Japanese Apricot Flower,shared|U33|H00047,1,0,0
+784,U353,花生,花生,no_exact_match,0,,,,hit|U353,0,0,0
+785,U358,化香树果,化香树果,no_exact_match,0,,,,hit|U358,0,0,0
+786,U359,槐花,槐花,unambiguous_exact,1,H00404,槐花,flower bud of Japanese pagodatree,shared|U359|H00404,0,1,0
+787,U360,槐角,槐角,unambiguous_exact,1,H00405,槐角,pod of Japanese pagodatree,shared|U360|H00405,0,1,0
+788,U361,槐米,槐米,no_exact_match,0,,,,hit|U361,0,0,0
+789,U362,槐枝,槐枝,no_exact_match,0,,,,hit|U362,0,0,0
+790,U364,黄根,黄根,no_exact_match,0,,,,hit|U364,0,0,0
+791,U365,黄狗肾,黄狗肾,no_exact_match,0,,,,hit|U365,0,0,0
+792,U366,黄蒿,黄蒿,no_exact_match,0,,,,hit|U366,0,0,0
+793,U367,黄花,黄花,no_exact_match,0,,,,hit|U367,0,0,0
+794,U369,黄荆子,黄荆子,no_exact_match,0,,,,hit|U369,0,0,0
+795,U34,白前,白前,no_exact_match,0,,,,hit|U34,0,1,0
+796,U373,黄皮叶,黄皮叶,no_exact_match,0,,,,hit|U373,0,0,0
+797,U374,黄芪,黄芪,unambiguous_exact,1,H00418,黄芪,root of Membranous Milkvetch,shared|U374|H00418,0,1,0

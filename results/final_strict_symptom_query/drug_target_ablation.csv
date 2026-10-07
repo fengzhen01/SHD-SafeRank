@@ -1,0 +1,13 @@
+split,target_status,metric,mean,std,n_seeds
+cold_drug,With DrugBank targets,hdi_auroc,0.6119129683137325,0.0,1
+cold_drug,With DrugBank targets,hdi_auprc,0.7937974824986964,0.0,1
+cold_drug,With DrugBank targets,hdi_mcc,0.21287847696716913,0.0,1
+cold_drug,Without DrugBank targets,hdi_auroc,0.6068032862600312,0.0,1
+cold_drug,Without DrugBank targets,hdi_auprc,0.7938077778872907,0.0,1
+cold_drug,Without DrugBank targets,hdi_mcc,0.17181092857477626,0.0,1
+cold_both,With DrugBank targets,hdi_auroc,0.5802831282447963,0.12032143610771544,3
+cold_both,With DrugBank targets,hdi_auprc,0.7318599020480563,0.012016648674660296,3
+cold_both,With DrugBank targets,hdi_mcc,0.12334133259952945,0.1673050033627028,3
+cold_both,Without DrugBank targets,hdi_auroc,0.49585098996424803,0.06142937227868124,3
+cold_both,Without DrugBank targets,hdi_auprc,0.6877635816501799,0.03974679689541927,3
+cold_both,Without DrugBank targets,hdi_mcc,0.04375459297196286,0.04836727121697576,3

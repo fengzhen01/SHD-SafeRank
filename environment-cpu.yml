@@ -1,0 +1,13 @@
+name: shd-saferank-cpu
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.24.4
+  - pandas=2.1.4
+  - scikit-learn=1.4.0
+  - matplotlib=3.8.2
+  - openpyxl>=3.1,<4
+  - pytorch=2.1.1
+  - cpuonly

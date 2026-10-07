@@ -1,0 +1,23 @@
+{
+  "canonical_protocol": {
+    "hs_query_direction": "symptom_to_herb",
+    "candidate_herbs": 798,
+    "hs_negative_samples_per_positive": 5,
+    "hs_negative_filter_scope": "train_only",
+    "cross_validation_folds": 5,
+    "formal_random_seeds": [
+      0,
+      17,
+      42
+    ]
+  },
+  "old_all_known_results": "Sensitivity/audit only; excluded from main manuscript tables.",
+  "authoritative_tables": [
+    "architecture_ablation.csv",
+    "diagnostic_controls.csv",
+    "drug_target_ablation.csv",
+    "id_vs_inductive.csv",
+    "protocol_aggregate.csv",
+    "safety_reranking_multi_seed.csv"
+  ]
+}

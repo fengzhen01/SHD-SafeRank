@@ -1,0 +1,22 @@
+{
+  "data_path": "data/processed/data.npz",
+  "output_dir": "results/strict_symptom_query_no_drug_target_cold_both_seed42",
+  "model_type": "inductive",
+  "use_drug_target_features": false,
+  "split_strategy": "cold_both",
+  "seed": 42,
+  "folds": 5,
+  "epochs": 150,
+  "embedding_dim": 64,
+  "hidden_dim": 128,
+  "dropout": 0.2,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "hs_negatives": 5,
+  "hs_negative_filter_scope": "train_only",
+  "hs_loss_weight": 1.0,
+  "hdi_loss_weight": 1.0,
+  "validation_fraction": 0.1,
+  "patience": 20,
+  "run_folds": null
+}
